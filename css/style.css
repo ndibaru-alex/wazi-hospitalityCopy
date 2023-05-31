@@ -4326,6 +4326,10 @@ footer .copy {
     text-align: left
 }
 
+#carousel_testimonials h4{
+    color: #fff;
+    text-decoration: underline;
+}
 @media (max-width: 767px) {
     .comment {
         text-align: center;
@@ -4417,4 +4421,13 @@ footer .copy {
 .search_bar input[type='submit']:hover {
     -webkit-filter: brightness(115%);
     filter: brightness(115%)
+}
+.form-control{
+    height: 48px !important;
+}
+textarea.form-control{
+    height: 150px !important;
+}
+#submit-contact{
+    height: 55px !important;
 }
