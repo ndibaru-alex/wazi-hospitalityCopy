@@ -39,7 +39,7 @@
 	
 	<main>
 
-		<div class="hero_single inner_pages background-image" data-background="url(img/hero_general.jpg)">
+		<div class="hero_single inner_pages background-image" data-background="url(assets/images/private-catering.jpg)">
 			<div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 				<div class="container">
 					<div class="row justify-content-center">
