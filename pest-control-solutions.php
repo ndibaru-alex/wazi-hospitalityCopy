@@ -49,7 +49,6 @@
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
 							<h1>Pest Control Solutions</h1>
-							<p>Order food with home delivery or take away</p>
 						</div>
 					</div>
 					<!-- /row -->

@@ -1,0 +1,14 @@
+.table td{
+    font-size: 14px;
+}
+table .form-control{
+    height: 30px !important;
+}
+.form .form-control{
+    height: 48px !important;
+    border-radius: 3px !important;
+}
+.btm-primary{
+    height: 50px !important;
+    border-radius: 3px !important;
+}

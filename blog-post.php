@@ -113,7 +113,6 @@
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
 							<h1>Foores Blog</h1>
-							<p>Per consequat adolescens ex cu nibh commune</p>
 						</div>
 					</div>
 					<!-- /row -->
