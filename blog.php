@@ -76,7 +76,7 @@
 						<div class="col-md-6" data-cue="slideInUp">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="uploads/<?php echo $blog['blog_image_name'] ?>" alt="">
+									<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="admin/uploads/<?php echo $blog['blog_image_name'] ?>" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
@@ -142,7 +142,7 @@
 							?>
 									<li>
 										<div class="alignleft">
-											<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="uploads/<?php echo $blog['blog_image_name'] ?>" alt=""></a>
+											<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="admin/uploads/<?php echo $blog['blog_image_name'] ?>" alt=""></a>
 										</div>
 										<small>posted - <?php echo $blog['posted_date'] ?></small>
 										<div class="one_linner">

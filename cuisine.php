@@ -68,7 +68,7 @@
 	                <div class="prod_info">
 	                    <h1>Cuisine</h1>
 	                    <p>
-							We serve a blended taste of both local and international cuisine and invite you to rest and relax as you enjoy a meal or drink anytime when and where you need it.
+							We serve a blended taste of both  <b>local and international cuisine</b>  and invite you to rest and relax as you enjoy a meal or drink anytime when and where you need it.
 						</p>
 						<p>
 							Our food Philosophy and uniqueness is driven by flavor, freshness, innovation and sustainability.
@@ -83,6 +83,24 @@
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
+				<div class="col-lg-12">
+					<div class="prod_info">
+						<h1>Commitment to freshness</h1>
+						<p>
+							Wazi provides a wide array of fruits and vegetables and ensures that they are fresh and create delightful meals. That our markets offer an abundance of fresh produce enable us source locally. Our meats and dairies are also sourced from reputable and accredited suppliers and as an organization we practice strict levels of hygiene. This way we guarantee environments free of food contamination and any resultant food poisoning.
+						</p>
+						<p>
+							On sustainability, we ensure our cooking processes eliminate food waste, and our storage facilities avoid spoilage. We also train our staff and casuals under our training department to equip them with hospitality knowledge and quick response to guest concerns and issues as well as on emerging trends to cope with workplace dynamics.
+						</p>
+						<p>
+							Resilience is the capacity for our core business to endure and respond to disruption in a way that either resists or limits damage and enables swift recovery. Resilient systems are characterized as adaptable, flexible, agile and able to deal with change and uncertainty.
+						</p>
+						<p>
+							Innovation is the essence of creation and we believe in continuous growth, exposure and evolution.
+							From large scale catering to the smallest family dinner, we continue to deliver unique culinary experiences that are the hallmark of the wazi experience
+						</p>
+					</div>
+				</div>
 	        </div>
 	        <!-- /row -->			
 		</div>

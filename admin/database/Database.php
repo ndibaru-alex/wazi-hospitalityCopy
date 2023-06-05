@@ -13,7 +13,7 @@
                 $this -> db_host     = "127.0.0.1";
                 $this -> db_user     = "root";
                 $this -> db_password = "";
-                $this -> db_name     = "Techroll";
+                $this -> db_name     = "Wazi";
             }else{
                 $this -> db_host     = "127.0.0.1";
                 $this -> db_user     = "techroll_techroll";

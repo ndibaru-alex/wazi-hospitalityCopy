@@ -121,7 +121,7 @@
 		    <div class="container">
 		        <div class="row justify-content-center">
 		            <div class="col-lg-8">
-		                <h3>What Our Clients Says</h3>
+		                <h3 class="text-dark">Wazi Mission Statement</h3>
 		                <div class="carousel_testimonials owl-carousel owl-theme" id="carousel_testimonials">
 		                    <div>
 		                        <div class="box_overlay w-100">
@@ -207,7 +207,7 @@
 		</div>
 		<!--/call_section-->
 
-		<div class="pattern_2">
+		<!-- <div class="pattern_2">
 		    <div class="container margin_120_100">
 		        <div class="main_title center mb-5">
 		            <span><em></em></span>
@@ -250,12 +250,45 @@
 		                </a>
 		            </div>
 		        </div>
-		        <!-- /carousel -->
 		    </div>
-		    <!--/container-->
-		</div>
+		</div> -->
 		<!--/pattern_2 -->
-		
+
+		<div class="bg_gray">
+		    <div class="container margin_120_100">
+		        <div class="row flex-lg-row-reverse"> 
+					<div class="col-lg-6">
+						<p>
+							<a href="assets/images/why-choose-us.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/why-choose-us.jpg" alt="" class="img-fluid"></a>
+						</p>
+                    </div>
+                    <div class="col-lg-5 offset-lg-1 align-self-center mb-4 mb-md-0">
+                        <div class="intro_txt" data-cue="slideInUp" data-delay="500">
+                            <div class="main_title">
+                                <span><em></em></span>
+                                <h2>Why Choose Wazi</h2>
+                            </div>
+                            <p>
+								<ul>
+									<li>We offer a large and diversified range of solutions including:-
+										<ol>
+											<li>Corporate and private catering</li>
+											<li>Cleaning solutions</li>
+											<li>Hospitality Staff training</li>
+											<li>Facilities layout and designs for kitchen and restaurants.</li>
+										</ol>
+									</li>
+									<li>
+										We are driven by our purpose of creating unique distinct priceless experiences where and when the client needs them.
+									</li>
+								</ul>
+							</p>
+                        </div>
+                    </div>
+                </div>
+		    </div>
+		    <!--/container -->
+		</div>
 	</main>
 	<!-- /main -->
 

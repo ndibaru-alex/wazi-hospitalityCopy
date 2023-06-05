@@ -134,7 +134,7 @@
 				?>
 				<div class="col-lg-9">
 					<div class="singlepost">
-						<figure><img alt="" class="img-fluid" src="uploads/<?php echo $blog['blog_image_name'] ?>"></figure>
+						<figure><img alt="" class="img-fluid" src="admin/uploads/<?php echo $blog['blog_image_name'] ?>"></figure>
 						<h1><?php echo $blog['blog_title'] ?></h1>
 						<div class="postmeta">
 							<ul>
@@ -261,7 +261,7 @@
 							?>
 									<li>
 										<div class="alignleft">
-											<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="uploads/<?php echo $blog['blog_image_name'] ?>" alt=""></a>
+											<a href="blog-post.php?blog=<?php echo urlencode(base64_encode($blog['id'])) ?>"><img src="admin/uploads/<?php echo $blog['blog_image_name'] ?>" alt=""></a>
 										</div>
 										<small>posted - <?php echo $blog['posted_date'] ?></small>
 										<div class="one_linner">

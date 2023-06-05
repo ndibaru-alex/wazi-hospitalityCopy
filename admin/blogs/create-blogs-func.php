@@ -5,7 +5,6 @@
 
     if(isset($_POST['save'])){
         $blog_title    = $_POST['blog_title'];
-        $blog_language = $_POST['blog_language'];
         $blog_slug     = $_POST['blog_slug'];
         $blog_image    = $_FILES['blog_image'];
         $description   = $_POST['description'];
@@ -29,7 +28,6 @@
         $image = $images -> uploadImage();
         if($image){
             $blogs -> Blog_Tittle     = $blog_title;
-            $blogs -> Blogs_Language  = $blog_language;
             $blogs -> Blog_Slug       = $blog_slug;
             $blogs -> Blog_Image      = $image;
             $blogs -> Blogs_Body      = $description;

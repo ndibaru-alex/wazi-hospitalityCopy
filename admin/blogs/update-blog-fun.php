@@ -6,7 +6,6 @@
     if(isset($_POST['save'])){
         $update        = $_POST['update'];
         $blog_title    = $_POST['blog_title'];
-        $blog_language = $_POST['blog_language'];
         $blog_slug     = $_POST['blog_slug'];
         $blog_image    = $_FILES['blog_image'];
         $description   = $_POST['description'];
@@ -39,7 +38,6 @@
         
             $blogs -> id     = $update;
             $blogs -> Blog_Tittle     = $blog_title;
-            $blogs -> Blogs_Language  = $blog_language;
             $blogs -> Blog_Slug       = $blog_slug;
             $blogs -> Blogs_Body      = $description;
             $blogs -> Blogs_Read_Time = $time;

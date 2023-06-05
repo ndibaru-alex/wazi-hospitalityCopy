@@ -68,7 +68,10 @@
 	            </div>
 	            <div class="col-lg-6" id="sidebar_fixed">
 	                <div class="prod_info">
-	                    <h1>Staff Training</h1>
+						<div class="main_title center mb-5">
+							<span><em></em></span>
+							<h1 class="mt-3">Staff Training</h1>
+						</div>
 						<p>
 							Today’s customers are constantly moving, are connected and are more informed than ever before. To keep pace, organisations must understand the myriad ways in which customers want to interact with them.
 						</p>
@@ -83,6 +86,60 @@
 						</p>
 	                </div>
 	                <!-- /prod_info -->
+	            </div>
+	        </div>
+	        <!-- /row -->			
+		</div>
+
+		<div class="container margin_60_40">
+			<div class="row">
+				<div class="col-lg-6" id="sidebar_fixed">
+					<div class="prod_info">
+						<div class="main_title center mb-5">
+							<span><em></em></span>
+							<h1 class="mt-3">The Plan</h1>
+						</div>
+						<p>
+							I have developed a customized workshop to engage and equip your staff to take their service delivery to another level. This program will include interactive exercises, practical examples, and real-time coaching to facilitate better understanding.
+						</p>
+						<p>
+							The characteristics that guarantee training success are
+						</p>
+						<p>
+							<ol>
+								<li>Identified need</li>
+								<li>Involvement</li>
+								<li>Innovation and flexibility</li>
+							</ol>
+						</p>
+					</div>
+					<!-- /prod_info -->
+				</div>
+	            <div class="col-lg-6 magnific-gallery">
+					<div class="main_title center mb-5">
+							<span><em></em></span>
+						<h1 class="mt-3">The Goal</h1>
+					</div>
+					<ol>
+						<li>
+							To increase awareness and commitment to deliver exceptional customer experiences.
+						</li>
+						<li>
+							To equip staff with techniques in service delivery so that they exceed expectations for internal and external customers. 
+						</li>
+						<li>
+							Highlight the importance of first impressions and in mastering the initial moments that set the tone for the customer experience. 
+						</li>
+						<li>
+							Promote and nurture greater consistency in service delivery and techniques in issue resolution. 
+						</li>
+						<li>
+							Adapt to increased diversity of the workforce
+						</li>
+						<li>
+							Support career development and employee need for growth.
+						</li>
+					</ol>
 	            </div>
 	        </div>
 	        <!-- /row -->			

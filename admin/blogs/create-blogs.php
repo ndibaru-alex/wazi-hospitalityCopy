@@ -83,18 +83,9 @@
                     }
                 ?>
                     <div class="row">
-                        <div class="col-sm-6 form-group">
+                        <div class="col-sm-12 form-group">
                             <label for="blog_title">Title</label>
                             <input type="text" name="blog_title" id="blog_title" class="form-control" placeholder="Enter Title">
-                        </div>
-                        <div class="col-sm-6 form-group">
-                            <label for="blog_language">Language</label>
-                            <select name="blog_language" id="blog_language" class="form-control">
-                                <option value="Php">Php</option>
-                                <option value="Angular">Angular</option>
-                                <option value="Django">Django</option>
-                                <option value="React">React</option>
-                            </select>
                         </div>
                     </div>
                     <div class="row">
