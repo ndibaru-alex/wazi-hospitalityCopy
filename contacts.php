@@ -95,6 +95,15 @@
 		        <div class="col-lg-6 col-md-6 add_bottom_25">
 		            <div id="message-contact"></div>
 		            <form method="post" action="functions/save-contact.php" id="contactform" autocomplete="off">
+						<?php
+							if(isset($_GET['success'])){
+								echo "<div class='alert alert-success'>{$_GET['success']}</div>";
+							}
+
+							if(isset($_GET['error'])){
+								echo "<div class='alert alert-danger'>{$_GET['error']}</div>";
+							}
+						?>
 						<div class="g-recaptcha" data-sitekey="6LdNsFQmAAAAADiCL4_wZae9SCYnmR0VVvH7jreH"></div>
 		                <div class="form-group">
 		                    <input class="form-control" type="text" placeholder="Name" id="name_contact" name="name_contact">

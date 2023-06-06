@@ -58,12 +58,12 @@
     
                 $send = $send_email -> sendMail();
     
-                header("Location: ../contact.php?success=message sent successfully, expect a reply soon#error_checking");
+                header("Location: ../contacts.php?success=message sent successfully, expect a reply soon#contactform");
             }else{
-                header("Location: ../contact.php?error=Oops! something went wrong, please try again#error_checking"); 
+                header("Location: ../contacts.php?error=Oops! something went wrong, please try again#contactform"); 
             }
         }
     }else{
-        header("Location: ../contact.php?error=Oops! something wrong, please try again");
+        header("Location: ../contacts.php?error=Oops! something wrong, please try again#contactform");
     }
 ?>

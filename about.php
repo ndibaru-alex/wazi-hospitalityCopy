@@ -254,7 +254,7 @@
 		</div> -->
 		<!--/pattern_2 -->
 
-		<div class="bg_gray">
+		<!-- <div class="bg_gray">
 		    <div class="container margin_120_100">
 		        <div class="row flex-lg-row-reverse"> 
 					<div class="col-lg-6">
@@ -287,8 +287,7 @@
                     </div>
                 </div>
 		    </div>
-		    <!--/container -->
-		</div>
+		</div> -->
 	</main>
 	<!-- /main -->
 
