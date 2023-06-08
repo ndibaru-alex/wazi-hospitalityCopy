@@ -77,18 +77,12 @@
 							<li>Client customized menu</li>
 						</ul>
 						<p>
-							Our mixologists and baristas are always prepared to provide an array of cocktails and mocktails for your event. Your choice to have them shaken or stirred to wow your clients is our pleasure.
+							Our mixologists and baristas are always prepared to provide an array of cocktails and mocktails for your event. Your choice to have them shaken or stirred to wow your clients is our pleasure. Indulge the unique creation of our renowned chefs in offering you diverse menu options including live cooking stations for your events. We offer different kinds of catering that is:-
 						</p>
-						<p>
-							Indulge the unique creation of our renowned chefs in offering you diverse menu options including live cooking stations for your events.
-						</p>
-						<p>
-							We offer different kinds of catering that is:-
 							<ol>
 								<li>Corporate Catering</li>
 								<li>Private Catering</li>
 							</ol>
-						</p>
 	                </div>
 	            </div>
 	        </div>

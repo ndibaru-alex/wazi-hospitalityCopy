@@ -1,3 +1,9 @@
+<div class="react_out_call_to_action d-flex justify-content-around align-items-center">
+    <div class="flex">
+        <h1>Do you want to talk to us ?</h1>
+        <a href="contact.php"><button class="btn btn-primary">Contact Us</button></a>
+    </div>
+</div>
 <footer>
     <div class="frame black"></div>
     <div class="container">

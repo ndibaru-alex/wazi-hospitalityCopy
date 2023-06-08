@@ -51,7 +51,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Foores Blog</h1>
+							<h1>Wazi Blog</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -111,7 +111,7 @@
 							}
 						?>
 					</div>
-					<div class="pagination_fg">
+					<!-- <div class="pagination_fg">
 					  <a href="#">&laquo;</a>
 					  <a href="#" class="active">1</a>
 					  <a href="#">2</a>
@@ -119,7 +119,7 @@
 					  <a href="#">4</a>
 					  <a href="#">5</a>
 					  <a href="#">&raquo;</a>
-					</div>
+					</div> -->
 
 				</div>
 				<!-- /col -->
@@ -151,6 +151,8 @@
 									</li>
 							<?php
 									}
+								}else{
+									echo "<div class='alert alert-danger'>No latest posts</div>";
 								}
 							?>
 						</ul>

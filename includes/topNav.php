@@ -54,6 +54,9 @@
             <li class="submenu">
                 <a href="contacts.php" class="show-submenu">Contact Us</a>
             </li>
+            <li class="submenu">
+                <a href="gallery.php" class="show-submenu">Gallery</a>
+            </li>
             
             <li><a href="blog.php" class="btn_top">Blog</a></li>
 

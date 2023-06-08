@@ -121,6 +121,7 @@
 		    <div class="container">
 		        <div class="row justify-content-center">
 		            <div class="col-lg-8">
+						
 		                <h3 class="text-dark">Wazi Mission Statement</h3>
 		                <div class="carousel_testimonials owl-carousel owl-theme" id="carousel_testimonials">
 		                    <div>

@@ -62,7 +62,7 @@
 		                <div class="box_contacts">
 		                    <i class="icon_tag_alt"></i>
 		                    <h2>Reservations</h2>
-		                    <a href="#0">+94 423-23-221</a> - <a href="#0">reserve@Foores.com</a>
+		                    <a href="tel:+254 110 239861">+254 110 239861</a> - <a href="mailto:wazicuisine@gmail.com">wazicuisine@gmail.com</a>
 		                    <small>- <a href="reservations.html">Or use the online form</a> -</small>
 		                </div>
 		            </div>
@@ -70,8 +70,8 @@
 		                <div class="box_contacts">
 		                    <i class="icon_pin_alt"></i>
 		                    <h2>Address</h2>
-		                    <div>6th Forrest Ray, London - 10001 UK</div>
-		                    <small>- <a href="#0">Get Directions</a> -</small>
+		                    <div>mbagathi road, Nairobi, Kenya</div>
+		                    <small>- <a href="https://goo.gl/maps/N5PXKthgC48zYMhS6" target="_blank">Get Directions</a> -</small>
 		                </div>
 		            </div>
 		            <div class="col-lg-4">

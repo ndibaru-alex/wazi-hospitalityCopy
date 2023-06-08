@@ -1,7 +1,9 @@
+<?php
+	include_once("admin/database/Database.php");
+	include_once("models/Gallery.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
-
-
 <!-- Mirrored from www.ansonika.com/foores/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 08:19:46 GMT -->
 <head>
     <meta charset="utf-8">
@@ -120,91 +122,36 @@
 	        <div class="container margin_60_40">
 	            <div class="main_title center">
 	                <span><em></em></span>
-	                <h2>Here some pictures</h2>
-	                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+	                <h2>Welcome to our gallery</h2>
 	            </div>
 	            <div class="grid">
 	                <ul class="magnific-gallery clearfix">
-	                    <li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_1.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_1.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_2.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_2.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						 <li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_3.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_3.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_4.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_4.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_5.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_5.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_6.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_6.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_7.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_7.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
-						<li>
-						    <div class="item">
-						        <div class="item-img" data-cue="slideInUp">
-						            <img src="img/gallery/large/pic_8.jpg" alt="">
-						            <div class="content">
-						                <a href="img/gallery/large/pic_8.jpg" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
-						            </div>
-						        </div>
-						    </div>
-						</li>
+						<?php
+							$conn = new Database();
+							$db = $conn -> connection();
+
+							$gallery = new Gallery($db);
+							$galleries = $gallery -> getGallery();
+
+							if($galleries){
+								foreach($galleries as $gall){
+						?>
+								<li>
+									<div class="item">
+										<div class="item-img" data-cue="slideInUp">
+											<img src="admin/Images/<?php echo $gall['Image'] ?>" alt="">
+											<div class="content">
+												<a href="admin/Images/<?php echo $gall['Image'] ?>" title="Photo title" data-effect="mfp-zoom-in"><i class="arrow_expand"></i></a>
+											</div>
+										</div>
+									</div>
+								</li>
+						<?php
+								}
+							}else{
+								echo "<div class='alert alert-danger'>No Images in your gallery</div>";
+							}
+						?>
 	                </ul>
 	            </div>
 	            <!-- /grid gallery -->
@@ -212,49 +159,6 @@
 	        <!-- /container -->
 	    </div>
 	    <!-- /bg_gray -->
-	    <div class="container margin_60_40">
-	        <div class="main_title center">
-	            <span><em></em></span>
-	            <h2>Here some videos</h2>
-	            <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
-	        </div>
-	        <div class="grid">
-	            <ul class="magnific-gallery" data-cues="zoomIn">
-				    <li>
-				        <div class="item">
-				            <div class="item-img" data-cue="slideInUp">
-				                <img src="img/gallery/large/pic_4.jpg" alt="" />
-				                <div class="content">
-				                    <a href="https://vimeo.com/45830194" class="video" title="Video Vimeo"><i class="arrow_expand"></i></a>
-				                </div>
-				            </div>
-				        </div>
-				    </li>
-				    <li>
-				        <div class="item">
-				            <div class="item-img" data-cue="slideInUp">
-				                <img src="img/gallery/large/pic_1.jpg" alt="" />
-				                <div class="content">
-				                    <a href="https://www.youtube.com/watch?v=Zz5cu72Gv5Y" class="video" title="Video Youtube"><i class="arrow_expand"></i></a>
-				                </div>
-				            </div>
-				        </div>
-				    </li>
-				    <li>
-				        <div class="item">
-				            <div class="item-img" data-cue="slideInUp">
-				                <img src="img/gallery/large/pic_3.jpg" alt="" />
-				                <div class="content">
-				                    <a href="https://vimeo.com/45830194" class="video" title="Video Vimeo"><i class="arrow_expand"></i></a>
-				                </div>
-				            </div>
-				        </div>
-				    </li>
-				</ul>
-	        </div>
-	        <!-- /grid -->
-	    </div>
-	    <!-- /container -->
 	</main>
 	<!-- /main -->
 

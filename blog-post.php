@@ -2,6 +2,9 @@
 	include_once("database/Database.php");
 	include_once("models/Blogs.php");
 	include_once("models/Comments.php");
+	if(!isset($_GET['blog'])){
+		header("Location: blog.php");
+	}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -112,7 +115,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Foores Blog</h1>
+							<h1>Wazi Blog</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -270,6 +273,8 @@
 									</li>
 							<?php
 									}
+								}else{
+									echo "<div class='alert alert-danger'>No latest posts</div>";
 								}
 							?>
 						</ul>

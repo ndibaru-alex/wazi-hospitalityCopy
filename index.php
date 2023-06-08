@@ -44,7 +44,7 @@
 	<main>
 		<div id="carousel-home">
 			<div class="owl-carousel owl-theme">
-				<div class="owl-slide cover lazy" data-bg="url(assets/images/slider-1.jpg)">
+				<div class="owl-slide cover lazy" data-bg="url(assets/imgs/lunch-and-dinner/green-plate-with-homemade-chocolate-cupcakes.jpg)">
 					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(74, 76, 91, 0.5)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-end">
@@ -64,7 +64,7 @@
 					</div>
 				</div>
 				<!--/owl-slide-->
-				<div class="owl-slide cover lazy" data-bg="url(assets/images/slider-2.jpg)">
+				<div class="owl-slide cover lazy" data-bg="url(assets/imgs/lunch-and-dinner/buggers.jpg)">
 					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(74, 76, 91, 0.5)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-start">
@@ -84,7 +84,7 @@
 					</div>
 				</div>
 				<!--/owl-slide-->				
-				<div class="owl-slide cover lazy" data-bg="url(assets/images/slider-3.jpg)">
+				<div class="owl-slide cover lazy" data-bg="url(assets/imgs/lunch-and-dinner/fish.jpg)">
 					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-start">
@@ -107,7 +107,7 @@
 		</div>
 		<!--/carousel-->
 
-		<ul id="banners_grid" class="clearfix">
+		<!-- <ul id="banners_grid" class="clearfix">
 			<li>
 				<a href="menu-1.html" class="img_container">
 					<img src="img/banners_cat_placeholder.jpg" data-src="img/banner_1.jpg" alt="" class="lazy">
@@ -135,7 +135,7 @@
 					</div>
 				</a>
 			</li>
-		</ul>
+		</ul> -->
 		<!--/banners_grid -->
 
 		<div class="pattern_2">
@@ -197,9 +197,9 @@
 							<div class="card-body">
 								<h4>Cleaning Solutions</h4>
 								<p>
-									We understand first impressions count. Whether you are hosting clients, interviewing, or it’s just the regular workforce, great sanitation and ambiance are critical. 
+									We understand first impressions count. Whether you are hosting clients, interviewing, or it’s just the regular workforce, great sanitation and ambiance are critical.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="cleaning-solutions.php" role="button">Read more</a></div>
+								<div class=""><a class="btn_1 btn_scroll " href="cleaning-solutions.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -210,7 +210,7 @@
 								<p>
 									Hospitality staff training: Elevate service standards, enhance guest experiences, and cultivate a skilled workforce through comprehensive and effective training programs.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="staff-training.html" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="staff-training.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -221,7 +221,7 @@
 								<p>
 									Facility layout & design: Optimize operational efficiency, maximize space utilization, and create a visually appealing environment through strategic planning and thoughtful design solutions.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="facility-layout-and-designs.php" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="facility-layout-and-designs.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -232,7 +232,7 @@
 								<p>
 									Indulge in a symphony of flavors, artfully crafted dishes, and culinary delights that transport your taste buds on an unforgettable gastronomic journey.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="cuisine.php" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="cuisine.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -243,7 +243,7 @@
 								<p>
 									Experience the convenience of professional food services tailored to your unique event, with delectable menus, impeccable presentation, and flawless execution that leave a lasting impression.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="catering.php" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="catering.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -254,7 +254,7 @@
 								<p>
 									Safeguard your premises from unwanted intruders, ensuring a pest-free environment through expert inspection, prevention, and effective elimination methods for long-term peace of mind.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll" href="pest-control-solutions.html" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="pest-control-solutions.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div>
@@ -265,7 +265,7 @@
 		</div>
 		<!-- /bg_gray -->
 
-		<div class="call_section lazy" data-bg="url(img/bg_call_section.jpg)">
+		<div class="call_section lazy" data-bg="url(assets/img/breakfast-options/chocolate-brownies.jpg)">
 		    <div class="container clearfix">
 		    	<div class="row justify-content-center">
 			        <div class="col-lg-5 col-md-6 text-center">
@@ -361,3 +361,12 @@
 </body>
 
 </html>
+
+<script>
+	let all = document.querySelectorAll('.remove_event_listerner');
+	all.forEach(element => {
+		element.onclick = () => {
+			window.location.href = element.href
+		}
+	})
+</script>

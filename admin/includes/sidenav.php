@@ -134,6 +134,23 @@
               </li>
             </ul>
           </li>
+          <li class="nav-item <?php if($_SESSION['active'] == 'gallery'){ echo 'menu-open'; } ?>">
+            <a href="#" class="nav-link">
+              <i class="nav-icon fas fa-image"></i>
+              <p>
+                Gallery
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="<?php echo BASE_URL.'gallery/upload-images.php' ?>" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Upload Images</p>
+                </a>
+              </li>
+            </ul>
+          </li>
           <li class="nav-item">
             <a href="<?php echo BASE_URL.'logout.php' ?>" class="nav-link">
               <i class="nav-icon fa-solid fa-right-from-bracket"></i>
