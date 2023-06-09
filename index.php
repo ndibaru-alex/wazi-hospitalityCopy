@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -143,7 +142,7 @@
 		        <div class="row justify-content-center d-flex align-items-center">
 		            <div class="col-lg-5 text-lg-center d-none d-lg-block" data-cue="slideInUp">
 		                <figure>
-		                    <img src="img/home_1_placeholder.png" data-src="img/home_1.jpg" width="354" height="440" alt="" class="img-fluid lazy">
+		                    <img src="assets/imgs/restaurant.jpg" data-src="assets/imgs/restaurant.jpg" width="354" height="440" alt="" class="img-fluid lazy">
 		                    <a href="https://www.youtube.com/watch?v=MO7Hi_kBBBg" class="btn_play" data-cue="zoomIn" data-delay="500"><span class="pulse_bt"><i class="arrow_triangle-right"></i></span></a>
 		                </figure>
 		            </div>
