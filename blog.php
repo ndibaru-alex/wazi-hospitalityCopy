@@ -2,6 +2,8 @@
 	include_once("database/Database.php");
 	include_once("models/Blogs.php");
 	include_once("models/Comments.php");
+	session_start();
+	$_SESSION['active'] = "blog";
 ?>
 <!DOCTYPE html>
 <html lang="en">

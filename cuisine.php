@@ -1,3 +1,7 @@
+<?php
+	session_start();
+	$_SESSION['active'] = "cuisine"
+?>
 <!DOCTYPE html>
 <html lang="en">
 

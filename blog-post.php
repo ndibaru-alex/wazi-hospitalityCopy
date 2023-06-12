@@ -5,6 +5,8 @@
 	if(!isset($_GET['blog'])){
 		header("Location: blog.php");
 	}
+	session_start();
+	$_SESSION['active'] = "blog"
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -1,6 +1,8 @@
 <?php
 	include_once("admin/database/Database.php");
 	include_once("models/Gallery.php");
+	session_start();
+	$_SESSION['active'] = "gallery";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -36,74 +38,13 @@
 
 <body>
 
-	<div id="preloader">
-		<div data-loader="circle-side"></div>
-	</div><!-- /Page Preload -->
-				
-	<header class="header clearfix element_to_stick">
-		<div class="layer"></div><!-- Opacity Mask Menu Mobile -->
-		<div class="container-fluid">
-		<div id="logo">
-			<a href="index.php">
-				<img src="img/logo.svg" width="140" height="35" alt="" class="logo_normal">
-				<img src="img/logo_sticky.svg" width="140" height="35" alt="" class="logo_sticky">
-			</a>
-		</div>
-
-	
-
-		<!-- /top_menu -->
-		<a href="#0" class="open_close">
-			<i class="icon_menu"></i><span>Menu</span>
-		</a>
-		<nav class="main-menu">
-
-		    <div id="header_menu">
-		        <a href="#0" class="open_close">
-		            <i class="icon_close"></i><span>Menu</span>
-		        </a>
-		        <a href="index.php"><img src="img/logo.svg" width="140" height="35" alt=""></a>
-		    </div>
-		    
-			<ul>
-		        <li class="submenu">
-		            <a href="index.php" class="show-submenu">Home</a>
-		        </li>
-
-		        <li class="submenu">
-		            <a href="about.php" class="show-submenu">About Us</a>
-		        </li>
-
-		         <li class="submenu">
-		            <a href="#0" class="show-submenu">Wazi Solutions</a>
-		            <ul>
-		                
-		                <li><a href="cleaning-solutions.php">Cleaning solutions</a></li>
-						<li><a href="staff-training.html">Hospitality Staff training</a></li>
-						<li><a href="facility-layout-and-designs.php">Facility Layout & Designs</a></li>
-						
-						<li><a href="cuisine.php">Cuisine</a></li>
-						<li><a href="catering.php">Catering</a></li>
-						<li><a href="pest-control-solutions.html">Pest Control</a></li>
-						
-		            </ul>
-		        </li>
-
-				<li class="submenu">
-		            <a href="contacts.php" class="show-submenu">Contact Us</a>
-		        </li>
-		        
-		        <li><a href="blog.php" class="btn_top">Blog</a></li>
-
-		    </ul>
-		</nav>
-	</div>
-	
-	</header>
+	<?php
+		include_once("includes/topNav.php");
+	?>
 	<!-- /header -->
 	
 	<main>
-	    <div class="hero_single inner_pages background-image" data-background="url(img/hero_general.jpg)">
+	    <div class="hero_single inner_pages background-image" data-background="url(assets/imgs/breakfast-options/nuts.jpg)">
 	        <div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 	            <div class="container">
 	                <div class="row justify-content-center">
@@ -162,66 +103,9 @@
 	</main>
 	<!-- /main -->
 
-	<footer>
-	    <div class="frame black"></div>
-	    <div class="container">
-	        <div class="row">
-	            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-	                <div class="footer_wp">
-	                    <i class="icon_pin_alt"></i>
-	                    <h3>Address</h3>
-	                    <p>Mbagathi Road,<br> Nairobi, Kenya</p>
-	                </div>
-	            </div>
-
-	            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-	                <div class="footer_wp">
-	                    <i class="icon_tag_alt"></i>
-	                    <h3>Enquiries</h3>
-	                    <p><a href="tel:+254110239861">+254 110 239861</a><br><a href="wazicuisine@gmail.com">wazicuisine@gmail.com</a></p>
-	                </div>
-	            </div>
-
-	            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-	                <div class="footer_wp">
-	                    <i class="icon_clock_alt"></i>
-	                    <h3>Opening Hours</h3>
-	                    <ul>
-	                        <li>Mon - Sat: 08am - 7pm</li>
-	                        <li>Sunday: Closed</li>
-	                    </ul>
-	                </div>
-	            </div>
-
-	            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-	                <h3>Policies</h3>
-					<ul>
-						<li><a href="">Cancellation Policy</a></li>
-						<li><a href="">Payment Terms</a></li>
-					</ul>
-	                
-	            </div>
-	        </div>
-	        <!-- /row-->
-	        <hr>
-	        <div class="row">
-	            <div class="col-sm-5">
-	                <p class="copy">© Wazi Hospitality - All rights reserved</p>
-	            </div>
-	            <div class="col-sm-7">
-	                <div class="follow_us">
-	                    <ul>
-	                        <li><a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/twitter_icon.svg" alt="" class="lazy"></a></li>
-	                        <li><a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/facebook_icon.svg" alt="" class="lazy"></a></li>
-	                        <li><a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/instagram_icon.svg" alt="" class="lazy"></a></li>
-	                        <li><a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/youtube_icon.svg" alt="" class="lazy"></a></li>
-	                    </ul>
-	                </div>
-	            </div>
-	        </div>
-	        <p class="text-center"></p>
-	    </div>
-	</footer>
+	<?php
+		include_once("includes/footer.php");
+	?>
 	<!--/footer-->
 
 	<div id="toTop"></div><!-- Back to top button -->

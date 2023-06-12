@@ -1,3 +1,7 @@
+<?php
+	session_start();
+	$_SESSION['active'] = "pest"
+?>
 <!DOCTYPE html>
 <html lang="en">
 

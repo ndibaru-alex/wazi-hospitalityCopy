@@ -1,3 +1,7 @@
+<?php
+	session_start();
+	$_SESSION['active'] = "facility"
+?>
 <!DOCTYPE html>
 <html lang="en">
 

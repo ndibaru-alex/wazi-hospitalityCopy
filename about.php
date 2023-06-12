@@ -1,3 +1,7 @@
+<?php
+	session_start();
+	$_SESSION['active'] = "about"
+?>
 <!DOCTYPE html>
 <html lang="en">
 
