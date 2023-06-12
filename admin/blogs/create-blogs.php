@@ -12,7 +12,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Techroll Blogs | Create Blogs</title>
+  <title>Wazi | Create Blogs</title>
 
   <!-- Google Font: Source Sans Pro -->
   <script src="https://cdn.tiny.cloud/1/fy277kmb9yrlan45yrffhhs1p8q01s3rg4i7erd93j5uhm7f/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>

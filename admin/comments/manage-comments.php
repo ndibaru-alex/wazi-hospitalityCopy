@@ -13,7 +13,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Techroll Blogs | Manage Comments</title>
+  <title>Wazi | Manage Comments</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="../assets/css/all.min.css">

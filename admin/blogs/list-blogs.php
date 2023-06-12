@@ -13,7 +13,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Techroll Blogs | List Blogs</title>
+  <title>Wazi | List Blogs</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="../assets/css/all.min.css">
