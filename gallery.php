@@ -50,7 +50,6 @@
 	                <div class="row justify-content-center">
 	                    <div class="col-xl-9 col-lg-10 col-md-8">
 	                        <h1>Media Gallery</h1>
-	                        <p>Cooking delicious and tasty food since 2005</p>
 	                    </div>
 	                </div>
 	                <!-- /row -->
