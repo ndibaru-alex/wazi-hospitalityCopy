@@ -121,12 +121,12 @@
 		</div>
 		<!--/pattern_2 -->
 
-		<div class="call_section testimonials lazy" data-bg="url(img/bg_call_section_2.jpg)">
+		<div class="call_section testimonials lazy" data-bg="url(assets/imgs/hospitality.jpg)">
 		    <div class="container">
 		        <div class="row justify-content-center">
 		            <div class="col-lg-8">
 						
-		                <h3 class="text-dark">Wazi Mission Statement</h3>
+		                <h2 class="text-white">Wazi Mission Statement</h2>
 		                <div class="carousel_testimonials owl-carousel owl-theme" id="carousel_testimonials">
 		                    <div>
 		                        <div class="box_overlay w-100">
