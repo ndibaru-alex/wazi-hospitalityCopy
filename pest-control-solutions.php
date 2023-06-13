@@ -64,12 +64,12 @@
 
 		<div class="container margin_60_40">
 			<div class="row">
-	            <div class="col-lg-6 magnific-gallery">
+	            <div class="col-lg-7 magnific-gallery">
 	                <p>
 	                    <a href="assets/images/pest-control.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/pest-control.jpg" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
-	            <div class="col-lg-6" id="sidebar_fixed">
+	            <div class="col-lg-5" id="sidebar_fixed">
 	                <div class="prod_info">
 	                    <h1>Pest Control</h1>
 						<p>
@@ -77,6 +77,9 @@
 						</p>
 						<p>
 							If pests have already infested your home, office or business, we offer solutions to your problem. we fumigate against cockroaches, bedbugs, mosquitos, fleas, rats, snakes, moths, termites and many other pests.
+						</p>
+						<p>
+							<img src="assets/images/7xm.xyz944101.jpg" style="width: 100%; object-fit: scale-down;" alt="">
 						</p>
 	                </div>
 	                <!-- /prod_info -->

@@ -261,6 +261,17 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-sm-4 mb-4">
+						<div class="card border-0 h-100">
+							<div class="card-body">
+								<h4>Kitchen and Restaurant Design</h4>
+								<p>
+									Innovative spaces blending form and function, where culinary artistry meets elegant ambiance, creating inviting atmospheres that inspire creativity and satisfy discerning palates.
+								</p>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="kitchen-and-restaurant-design.php" role="button">Read more</a></div>
+							</div>
+						</div>
+					</div>
                 </div>
                 <!-- /row -->
 		    </div>
@@ -285,39 +296,6 @@
     	</div>
    		<!--/call_section-->
 
-		<div class="pattern_2">
-		    <div class="container margin_120_100 pb-0">
-		        <div class="row justify-content-center">
-		        	<div class="col-lg-6 text-center d-none d-lg-block" data-cue="slideInUp">
-		                <img src="assets/images/cheff.jpg" width="420" height="770" alt="" class="img-fluid">
-		            </div>
-		            <div class="col-lg-6 col-md-8" data-cue="slideInUp">
-		                <div class="main_title">
-		                    <span><em></em></span>
-		                    <h2>Kitchen and Restaurant Design</h2>
-		                </div>
-						<p>
-							<h4>Consultancy</h4>
-							Wazi is here to serve you set up a new service business or help you replace or upgrade an existing one.
-							We listen to your vision, advice on the best ways to utilize space and ensure practical implementation. We work within your budget and offer tailored competitive pricing and guarantee customer satisfaction. 
-						</p>
-						<p>
-							<h4>Site Survey</h4>
-							<p>
-								After consultation, we visit the site to get you the right customization fit. We believe in getting it right the first time. The survey ensures right selection of equipment with specs space settings, orientation, hygiene and overall aesthetics of the kitchen or restaurant. This process ensures maximum efficiency, least cost and wastages in your kitchen.
-							</p>
-						</p>
-						<p>
-							<h4>Layout Design</h4>
-							We offer low cost solution for preparing 2D& 3D floor plans that clearly bring out your dream kitchen. Our designs allow for selection of equipment, space setting, orientation and hygiene.
-							We offer quick 24-hour turnaround of all floor plans in any image jpeg or pdf format.
-						</p>
-		            </div>
-		        </div>
-		        <!-- /row -->
-		    </div>
-		    <!-- /container -->
-		</div>
 		<!-- /pattern_2 -->
 	</main>
 	<!-- /main -->

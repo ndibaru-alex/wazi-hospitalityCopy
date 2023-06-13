@@ -47,6 +47,7 @@
                     <li><a href="cuisine.php" class="<?php if($_SESSION['active'] =="cuisine"){ echo "active"; } ?>">Cuisine</a></li>
                     <li><a href="catering.php" class="<?php if($_SESSION['active'] =="catering"){ echo "active"; } ?>">Catering</a></li>
                     <li><a href="pest-control-solutions.php" class="<?php if($_SESSION['active'] =="pest"){ echo "active"; } ?>">Pest Control</a></li>
+                    <li><a href="kitchen-and-restaurant-design.php" class="<?php if($_SESSION['active'] =="kitchen"){ echo "active"; } ?>">Kitchen and Restaurant Design</a></li>
                     
                 </ul>
             </li>

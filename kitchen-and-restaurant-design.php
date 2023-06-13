@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	$_SESSION['active'] = "cuisine"
+	$_SESSION['active'] = "kitchen"
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi Hospitalityuisine</title>
+    <title>Wazi Hospitality | Pest Control Solutions</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -43,15 +43,16 @@
 	<?php
 		include_once("includes/topNav.php");
 	?>
+	<!-- /header -->
 	
 
 	<main>
-		<div class="hero_single inner_pages background-image" data-background="url(assets/images/cuisine.jpg)">
+		<div class="hero_single inner_pages background-image" data-background="url(assets/images/7xm.xyz945065.jpg)">
 			<div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Cuisine</h1>
+							<h1>Kitchen and Restaurant Design</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -65,47 +66,28 @@
 			<div class="row">
 	            <div class="col-lg-6 magnific-gallery">
 	                <p>
-	                    <a href="assets/images/cuisine.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/cuisine.jpg" alt="" class="img-fluid"></a>
+	                    <a href="assets/images/7xm.xyz945065.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/7xm.xyz945065.jpg" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
 	            <div class="col-lg-6" id="sidebar_fixed">
 	                <div class="prod_info">
-	                    <h1>Cuisine</h1>
-	                    <p>
-							We serve a blended taste of both  <b>local and international cuisine</b>  and invite you to rest and relax as you enjoy a meal or drink anytime when and where you need it.
-						</p>
+	                    <h1>Kitchen and Restaurant Design</h1>
+                        <h3>Consultancy</h3>
 						<p>
-							Our food Philosophy and uniqueness is driven by flavor, freshness, innovation and sustainability.
+                            Wazi is here to serve you set up a new service business or help you replace or upgrade an existing one. We listen to your vision, advice on the best ways to utilize space and ensure practical implementation. We work within your budget and offer tailored competitive pricing and guarantee customer satisfaction. 
 						</p>
+                        <h3>Site Survey</h3>
 						<p>
-							We guarantee you our client, an experience that is sure to delight your senses as we combine menus with contemporary and traditional flavors from diverse regions across the globe including our local dishes here in Kenya, Asian and Indian flavors. 
+                            After consultation, we visit the site to get you the right customization fit. We believe in getting it right the first time. The survey ensures right selection of equipment with specs space settings, orientation, hygiene and overall aesthetics of the kitchen or restaurant. This process ensures maximum efficiency, least cost and wastages in your kitchen. 
 						</p>
-						<p>
-							Our specialized Chefs, Baristas and mixologists work with a variety of cooking styles from cooking ranges, Jikogrills, shawarma’s, tandoori just to ensure you get the correct distinctive tastes.
-						</p>
-						<p></p>
+                        <h3>Layout Design</h3>
+                        <p>
+                            We offer low cost solution for preparing 2D& 3D floor plans that clearly bring out your dream kitchen. Our designs allow for selection of equipment, space setting, orientation and hygiene. We offer quick 24-hour turnaround of all floor plans in any image jpeg or pdf format. 
+                        </p>
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
 	        </div>
-			<div class="col-lg-12">
-					<div class="prod_info">
-						<h1>Commitment to freshness</h1>
-						<p>
-							Wazi provides a wide array of fruits and vegetables and ensures that they are fresh and create delightful meals. That our markets offer an abundance of fresh produce enable us source locally. Our meats and dairies are also sourced from reputable and accredited suppliers and as an organization we practice strict levels of hygiene. This way we guarantee environments free of food contamination and any resultant food poisoning.
-						</p>
-						<p>
-							On sustainability, we ensure our cooking processes eliminate food waste, and our storage facilities avoid spoilage. We also train our staff and casuals under our training department to equip them with hospitality knowledge and quick response to guest concerns and issues as well as on emerging trends to cope with workplace dynamics.
-						</p>
-						<p>
-							Resilience is the capacity for our core business to endure and respond to disruption in a way that either resists or limits damage and enables swift recovery. Resilient systems are characterized as adaptable, flexible, agile and able to deal with change and uncertainty.
-						</p>
-						<p>
-							Innovation is the essence of creation and we believe in continuous growth, exposure and evolution.
-							From large scale catering to the smallest family dinner, we continue to deliver unique culinary experiences that are the hallmark of the wazi experience
-						</p>
-					</div>
-				</div>
 	        <!-- /row -->			
 		</div>
 		<!-- /container -->

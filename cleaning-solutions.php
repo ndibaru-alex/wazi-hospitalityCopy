@@ -88,11 +88,6 @@
 	            </div>
 	        </div>
 			<div class="row mt-5">
-	            <div class="col-lg-6 magnific-gallery">
-	                <p>
-	                    <a href="assets/images/images.png" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/images.png" alt="" class="img-fluid"></a>
-	                </p>
-	            </div>
 	            <div class="col-lg-6" id="sidebar_fixed">
 	                <div class="prod_info">
 	                    <p>
@@ -123,6 +118,11 @@
 						</p>
 	                </div>
 	                <!-- /prod_info -->
+	            </div>
+				<div class="col-lg-6 magnific-gallery">
+	                <p>
+	                    <a href="assets/images/images.png" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/images.png" alt="" class="img-fluid"></a>
+	                </p>
 	            </div>
 	        </div>
 	        <!-- /row -->			
