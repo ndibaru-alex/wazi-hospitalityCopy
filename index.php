@@ -48,7 +48,7 @@
 		<div id="carousel-home">
 			<div class="owl-carousel owl-theme">
 				<div class="owl-slide cover lazy" data-bg="url(assets/imgs/lunch-and-dinner/green-plate-with-homemade-chocolate-cupcakes.jpg)">
-					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-end">
 								<div class="col-lg-6 static">
@@ -68,7 +68,7 @@
 				</div>
 				<!--/owl-slide-->
 				<div class="owl-slide cover lazy" data-bg="url(assets/imgs/lunch-and-dinner/buggers.jpg)">
-					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-start">
 								<div class="col-lg-6 static">
@@ -114,7 +114,7 @@
 			<li>
 				<a href="menu-1.html" class="img_container">
 					<img src="img/banners_cat_placeholder.jpg" data-src="img/banner_1.jpg" alt="" class="lazy">
-					<div class="short_info opacity-mask" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="short_info opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<h3>Our Menu</h3>
 						<p>View Our Specialites</p>
 					</div>
@@ -123,7 +123,7 @@
 			<li>
 				<a href="order-food.html" class="img_container">
 					<img src="img/banners_cat_placeholder.jpg" data-src="img/banner_2.jpg" alt="" class="lazy">
-					<div class="short_info opacity-mask" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="short_info opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<h3>Delivery</h3>
 						<p>Home delivery or take away food</p>
 					</div>
@@ -132,7 +132,7 @@
 			<li>
 				<a href="gallery.html" class="img_container">
 					<img src="img/banners_cat_placeholder.jpg" data-src="img/banner_3.jpg" alt="" class="lazy">
-					<div class="short_info opacity-mask" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="short_info opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<h3>Inside Foores</h3>
 						<p>View the Gallery</p>
 					</div>
@@ -147,7 +147,7 @@
 		            <div class="col-lg-5 text-lg-center d-none d-lg-block" data-cue="slideInUp">
 		                <figure>
 		                    <img src="assets/imgs/restaurant.jpg" data-src="assets/imgs/restaurant.jpg" width="354" height="440" alt="" class="img-fluid lazy">
-		                    <a href="https://www.youtube.com/watch?v=MO7Hi_kBBBg" class="btn_play" data-cue="zoomIn" data-delay="500"><span class="pulse_bt"><i class="arrow_triangle-right"></i></span></a>
+		                    <!-- <a href="" class="btn_play" data-cue="zoomIn" data-delay="500"><span class="pulse_bt"><i class="arrow_triangle-right"></i></span></a> -->
 		                </figure>
 		            </div>
 		            <div class="col-lg-5 pt-lg-4" data-cue="slideInUp" data-delay="500">
@@ -180,9 +180,9 @@
 		            <h2>Our Core Values</h2>
 		        </div>
 		        <!-- /main_title -->
-		        <div class="banner lazy" data-bg="url(img/banner_bg.jpg)">
+		        <div class="banner lazy" data-bg="url(assets/imgs/breakfast-options/pumpkin-soup.jpg)">
    
-					<div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(74, 76, 91, 0.5)">
+					<div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                         <p>
 							Our core values make us who we are. As we change and grow, the beliefs that are most important to us stay the same. Being part of Wazi Hospitality means being part of a proud history and a thriving culture.
 						</p>
@@ -268,7 +268,7 @@
 		</div>
 		<!-- /bg_gray -->
 
-		<div class="call_section lazy" data-bg="url(assets/img/breakfast-options/chocolate-brownies.jpg)">
+		<div class="call_section lazy" data-bg="url(assets/imgs/breakfast-options/chaitea.jpg)">
 		    <div class="container clearfix">
 		    	<div class="row justify-content-center">
 			        <div class="col-lg-5 col-md-6 text-center">

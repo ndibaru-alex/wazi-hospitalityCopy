@@ -10,15 +10,22 @@
         public function __construct()
         {
             if($_SERVER['HTTP_HOST'] == "127.0.0.1" || $_SERVER['HTTP_HOST'] == "localhost"){
-                $this -> db_host     = "127.0.0.1";
-                $this -> db_user     = "root";
-                $this -> db_password = "";
-                $this -> db_name     = "Wazi";
+                // $this -> db_host     = "127.0.0.1";
+                // $this -> db_user     = "root";
+                // $this -> db_password = "";
+                // $this -> db_name     = "Wazi";
+
+                $this -> db_host     = "localhost";
+                $this -> db_user     = "rc5";
+                $this -> db_password = "Ntheketha26*";
+                $this -> db_name     = "wazi";
+
+                
             }else{
-                $this -> db_host     = "127.0.0.1";
-                $this -> db_user     = "";
-                $this -> db_password = "";
-                $this -> db_name     = "";
+                $this -> db_host     = "localhost";
+                $this -> db_user     = "rc5";
+                $this -> db_password = "Ntheketha26*";
+                $this -> db_name     = "wazi";
             }
             
         }
