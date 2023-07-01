@@ -261,7 +261,7 @@ $_SESSION['active'] = "home"
 								<p>
 									Innovative spaces blending form and function, where culinary artistry meets elegant ambiance, creating inviting atmospheres that inspire creativity and satisfy discerning palates.
 								</p>
-								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="kitchen-and-restaurant-design.php" role="button">Read more</a></div>
+								<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="consultancy-and-design.php" role="button">Read more</a></div>
 							</div>
 						</div>
 					</div> -->

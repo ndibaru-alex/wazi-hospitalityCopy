@@ -5,7 +5,7 @@
 <header class="header clearfix element_to_stick">
     <div class="layer"></div><!-- Opacity Mask Menu Mobile -->
     <div class="container-fluid">
-        
+
         <div id="logo">
             <a href="index.php">
                 <img src="img/logo.svg" width="340" height="75" alt="" class="logo_normal">
@@ -48,13 +48,13 @@
 
                         <li><a href="cleaning-solutions.php" class="<?php if ($_SESSION['active'] == "cleaning") {
                                                                         echo "active";
-                                                                    } ?>">Cleaning solutions</a></li>
+                                                                    } ?>">House Keeping</a></li>
                         <li><a href="staff-training.php" class="<?php if ($_SESSION['active'] == "staff") {
                                                                     echo "active";
-                                                                } ?>">Hospitality Staff training</a></li>
-                        <li><a href="facility-layout-and-designs.php" class="<?php if ($_SESSION['active'] == "facility") {
+                                                                } ?>">Hospitality Staff Training</a></li>
+                        <!-- <li><a href="facility-layout-and-designs.php" class="<?php if ($_SESSION['active'] == "facility") {
                                                                                     echo "active";
-                                                                                } ?>">Facility Layout & Designs</a></li>
+                                                                                } ?>">Facility Layout & Designs</a></li> -->
 
                         <li><a href="cuisine.php" class="<?php if ($_SESSION['active'] == "cuisine") {
                                                                 echo "active";
@@ -65,9 +65,9 @@
                         <li><a href="pest-control-solutions.php" class="<?php if ($_SESSION['active'] == "pest") {
                                                                             echo "active";
                                                                         } ?>">Pest Control</a></li>
-                        <li><a href="kitchen-and-restaurant-design.php" class="<?php if ($_SESSION['active'] == "kitchen") {
+                        <li><a href="consultancy-and-design.php" class="<?php if ($_SESSION['active'] == "kitchen") {
                                                                                     echo "active";
-                                                                                } ?>">Kitchen and Restaurant Design</a></li>
+                                                                                } ?>">Consultancy & Design</a></li>
 
                     </ul>
                 </li>
@@ -84,8 +84,9 @@
                 </li>
 
                 <li><a href="blog.php" class="btn_top">Blog</a></li>
-
             </ul>
+
+
         </nav>
     </div>
 

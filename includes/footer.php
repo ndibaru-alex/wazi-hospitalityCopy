@@ -1,9 +1,21 @@
 <div class="react_out_call_to_action d-flex justify-content-around align-items-center">
-    <div class="flex">
-        <h1>Do you want to talk to us ?</h1>
-        <a href="contact.php"><button class="btn btn-primary">Contact Us</button></a>
+    <div style="padding: 60px 0px 10px 0px;" class="container row">
+
+        <div class="col-md-6">
+            <h2>Value Proposition</h2>
+            <p>Our value propositions: accessibility, customization and affordability. The company creates accessibility by providing a broad range of options.</p>
+        </div>
+        
+        <div class="col-md-6">
+            <h2>Brand Promise</h2>
+
+            <p>Memories are made of these: quality, professionalism, personal touch.</p>
+            <a href="contact.php"><button class="btn btn-primary">Get In Touch</button></a>
+
+        </div>
     </div>
 </div>
+
 <footer>
     <div class="frame black"></div>
     <div class="container">
@@ -41,14 +53,14 @@
                     <li><a href="">Cancellation Policy</a></li>
                     <li><a href="">Payment Terms</a></li>
                 </ul>
-                
+
             </div>
         </div>
         <!-- /row-->
         <hr>
         <div class="row">
             <div class="col-sm-5">
-                <p class="copy">© Wazi Hospitality - All rights reserved</p>
+                <p class="copy">© Wazi Cuisine & Hospitality - All rights reserved</p>
             </div>
             <div class="col-sm-7">
                 <div class="follow_us">

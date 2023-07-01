@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi Hospitality | Pest Control Solutions</title>
+    <title>Wazi Pest Control Solutions</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -52,7 +52,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Pest Control Solutions</h1>
+							<h1>Wazi Pest Control Solutions</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -69,18 +69,18 @@
 	                    <a href="assets/images/pest-control.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/pest-control.jpg" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
-	            <div class="col-lg-5" id="sidebar_fixed">
+	            <div class="col-lg-5">
 	                <div class="prod_info">
 	                    <h1>Pest Control</h1>
 						<p>
-							Nobody would like to deal with pests in their homes or businesses. Pests can be so disturbing, embarrassing and at times dangerous. our aim is to stop pest infestation early enough before they become a menace.
+						Nobody would like to deal with pests in their homes or businesses. Pests can be so disturbing, embarrassing and at times dangerous. our aim is to stop pest infestation early enough before they become a menace. 
 						</p>
 						<p>
-							If pests have already infested your home, office or business, we offer solutions to your problem. we fumigate against cockroaches, bedbugs, mosquitos, fleas, rats, snakes, moths, termites and many other pests.
+						If pests have already infested your home, office or business, we offer solutions to your problem. we fumigate against cockroaches, bedbugs, mosquitos, fleas, rats, snakes, moths, termites and many other pests.
 						</p>
-						<p>
+						<!-- <p>
 							<img src="assets/images/7xm.xyz944101.jpg" style="width: 100%; object-fit: scale-down;" alt="">
-						</p>
+						</p> -->
 	                </div>
 	                <!-- /prod_info -->
 	            </div>

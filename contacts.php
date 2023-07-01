@@ -6,7 +6,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from www.ansonika.com/foores/contacts.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 08:20:12 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -108,7 +108,7 @@
 								echo "<div class='alert alert-danger'>{$_GET['error']}</div>";
 							}
 						?>
-						<div class="g-recaptcha" data-sitekey="6LdNsFQmAAAAADiCL4_wZae9SCYnmR0VVvH7jreH"></div>
+						
 		                <div class="form-group">
 		                    <input class="form-control" type="text" placeholder="Name" id="name_contact" name="name_contact">
 		                </div>
@@ -118,6 +118,7 @@
 		                <div class="form-group">
 		                    <textarea class="form-control" style="height: 150px;" placeholder="Message" id="message_contact" name="message_contact"></textarea>
 		                </div>
+						<div class="g-recaptcha" data-sitekey="6LdNsFQmAAAAADiCL4_wZae9SCYnmR0VVvH7jreH"></div>
 		                <div class="form-group">
 		                    <input class="btn_1 full-width" type="submit" value="Submit" id="submit-contact">
 		                </div>
@@ -149,5 +150,4 @@
 
 </body>
 
-<!-- Mirrored from www.ansonika.com/foores/contacts.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 08:20:12 GMT -->
 </html>

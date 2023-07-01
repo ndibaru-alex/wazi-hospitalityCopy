@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi Hospitality | Cleaning Solutions</title>
+    <title>Wazi House Keeping & Professional Cleaning Services</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -51,7 +51,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Cleaning Solutions</h1>
+							<h1>Wazi House Keeping & Professional Cleaning Services</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -68,26 +68,44 @@
 	                    <a href="assets/images/house-keeping-cleaning.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/house-keeping-cleaning.jpg" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
-	            <div class="col-lg-6" id="sidebar_fixed">
+	            <div class="col-lg-6" >
 	                <div class="prod_info">
-	                    <h1>House Keeping & Cleaning Services</h1>
+	                    <h1>Wazi House Keeping & Professional Cleaning Services</h1>
+						<h4>Transforming your space...  new scenery and surrounding… A clean difference</h4>
 	                    <p>
-							We understand first impressions count. Whether you are hosting clients, interviewing, or it’s just the regular workforce, great sanitation and ambiance are critical.
+						A thorough professional cleaning is an important factor in keeping your home or office fresh clean and healthy. We provide high quality cleaning services for both indoors and outdoors and believe that people are more productive when they are nurtured and inspired by their surroundings.
 						</p>
 						<p>
-							Our team helps provide different cleaning options and are committed to meeting and exceeding your expectations. Our experience in the industry guarantees for great quality, great customer experience, and satisfaction. We comb through your requirements to ensure 100 percent compliance.
+						Our team is committed to providing personalized cleaning services to suit whatever your need is.
 						</p>
-						<p>
-							For restaurant and kitchen design, we do a site visit to see and understand the space, understand client use of space, wishes, and budget then work with experts to deliver.
-						</p>
-						<p>
-							We follow the process outlined for perfect project delivery.
-						</p>
+
+						
+						
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
+
+				<div class="container">
+
+				<p>Your employees, guests and clients require and need to feel comfort and value. Accommodating their basic rights is your duty.  The environment you create greatly benefits your business. Our cleaning solutions offers you maintenance and care whilst you concentrate on your core business.</p>
+				<h4>Our Solutions Include</h4>
+
+<ol>
+	<li>Carpet and fabric cleaning</li>
+	<li>Fumigation and pest control</li>
+	<li>Office cleaning and disinfection</li>
+	<li>House spring cleaning</li>
+	<li>Post construction cleaning</li>
+	<li>After event cleaning</li>
+</ol>
+
+
+
+				</div>
 	        </div>
-			<div class="row mt-5">
+
+			
+			<!-- <div class="row mt-5">
 	            <div class="col-lg-6" id="sidebar_fixed">
 	                <div class="prod_info">
 	                    <p>
@@ -117,15 +135,15 @@
 							Our cleaning solutions offers you maintenance and care whilst you concentrate on your core business.
 						</p>
 	                </div>
-	                <!-- /prod_info -->
+	                
 	            </div>
 				<div class="col-lg-6 magnific-gallery">
 	                <p>
 	                    <a href="assets/images/images.png" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/images.png" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
-	        </div>
-	        <!-- /row -->			
+	        </div> -->
+	        		
 		</div>
 		<!-- /container -->
 	</main>

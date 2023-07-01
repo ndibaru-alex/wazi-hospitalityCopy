@@ -22,7 +22,7 @@
     -moz-animation: circle infinite .95s linear;
     -o-animation: circle infinite .95s linear;
     animation: circle infinite .95s linear;
-    border: 2px solid #DAA520;
+    border: 2px solid #947004;
     border-top-color: rgba(0, 0, 0, 0.2);
     border-right-color: rgba(0, 0, 0, 0.2);
     border-bottom-color: rgba(0, 0, 0, 0.2);
@@ -124,7 +124,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #222;
+    color: #910951;
     font-weight: 500;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -154,7 +154,7 @@ hr {
 }
 
 a {
-    color: #DAA520;
+    color: #947004;
     text-decoration: none;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -174,7 +174,7 @@ a:focus {
 a.btn_1,
 .btn_1 {
     border: none;
-    background: #DAA520;
+    background: #947004;
     outline: none;
     cursor: pointer;
     display: inline-block;
@@ -239,8 +239,8 @@ a.btn_1.outline,
 
 a.btn_1.outline:hover,
 .btn_1.outline:hover {
-    border-color: #DAA520;
-    color: #DAA520 !important
+    border-color: #947004;
+    color: #947004 !important
 }
 
 a.btn_1.outline:focus,
@@ -292,7 +292,7 @@ a.btn_play {
 }
 
 a.btn_play:hover {
-    color: #DAA520
+    color: #947004
 }
 
 .pulse_bt {
@@ -430,7 +430,7 @@ header.header.sticky .logo_sticky {
 }
 
 header.header.sticky a.btn_top {
-    background-color: #00A4B4;
+    background-color: #281e01;
     color: #fff
 }
 
@@ -554,7 +554,7 @@ header.sticky a.open_close,
 }
 
 .main-menu>ul>li:hover>a {
-    color: #DAA520
+    color: #947004
 }
 
 header.sticky .main-menu>ul>li>a,
@@ -565,7 +565,7 @@ header.header_in .main-menu>ul>li>a {
 header.sticky .main-menu>ul>li:hover>a,
 header.header_in .main-menu>ul>li:hover>a {
     opacity: 1;
-    color: #DAA520
+    color: #947004
 }
 
 #close_in,
@@ -594,7 +594,7 @@ header.header_in .main-menu>ul>li:hover>a {
 
     .main-menu ul ul {
         position: absolute;
-        border-top: 2px solid #DAA520;
+        border-top: 2px solid #947004;
         z-index: 1;
         visibility: hidden;
         left: 3px;
@@ -631,7 +631,7 @@ header.header_in .main-menu>ul>li:hover>a {
         width: 0;
         position: absolute;
         pointer-events: none;
-        border-bottom-color: #DAA520;
+        border-bottom-color: #947004;
         border-width: 7px;
         margin-left: -7px
     }
@@ -692,7 +692,7 @@ header.header_in .main-menu>ul>li:hover>a {
 
     .main-menu ul ul li:hover>a {
         background-color: #f9f9f9;
-        color: #DAA520;
+        color: #947004;
         padding-left: 18px
     }
 
@@ -702,7 +702,7 @@ header.header_in .main-menu>ul>li:hover>a {
 
     .main-menu ul ul li.third-level>a:hover {
         background-color: #f9f9f9;
-        color: #DAA520;
+        color: #947004;
         padding-left: 18px;
         opacity: 1
     }
@@ -744,7 +744,7 @@ header.header_in .main-menu>ul>li:hover>a {
         text-align: center;
         position: relative;
         padding: 30px 0 25px 0;
-        background-color: #DAA520
+        background-color: #947004
     }
 
     #header_menu a.open_close {
@@ -757,7 +757,7 @@ header.header_in .main-menu>ul>li:hover>a {
 
     .main-menu ul li a:hover,
     a.show-submenu:hover {
-        color: #DAA520 !important;
+        color: #947004 !important;
         background-color: #f9f9f9;
         opacity: 1 !important
     }
@@ -792,7 +792,7 @@ header.header_in .main-menu>ul>li:hover>a {
 
     .main-menu>ul>li.submenu:hover>a:after {
         transform: rotate(180deg);
-        color: #DAA520
+        color: #947004
     }
 
     .main-menu ul>li.submenu>a:after {
@@ -877,24 +877,24 @@ a.btn_top {
 }
 
 a.btn_top:hover {
-    border-color: #DAA520;
+    border-color: #947004;
     color: #fff !important;
-    background-color: #DAA520
+    background-color: #947004
 }
 
 a.btn_top.order {
     border: 1px solid rgba(255, 255, 255, 0);
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff !important
 }
 
 a.btn_top.order:hover {
-    background-color: #00A4B4
+    background-color: #281e01
 }
 
 @media (max-width: 991px) {
     a.btn_top {
-        background-color: #00A4B4;
+        background-color: #281e01;
         color: #fff !important;
         border: 0;
         -webkit-border-radius: 0;
@@ -910,12 +910,12 @@ a.btn_top.order:hover {
 
 .sticky a.btn_top.order {
     border: 1px solid rgba(255, 255, 255, 0);
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff !important
 }
 
 .sticky a.btn_top.order:hover {
-    background-color: #00A4B4
+    background-color: #281e01
 }
 
 ul#top_menu {
@@ -1006,7 +1006,7 @@ ul#top_menu li a.search-overlay-menu-btn strong {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%;
-    background-color: #00A4B4;
+    background-color: #281e01;
     color: #fff !important
 }
 
@@ -1075,7 +1075,7 @@ ul#top_menu li a.search-overlay-menu-btn:before {
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.175);
     font-size: 13px;
     font-size: 0.8125rem;
-    border-top: 2px solid #DAA520
+    border-top: 2px solid #947004
 }
 
 .dropdown-cart .dropdown-menu:before {
@@ -1087,7 +1087,7 @@ ul#top_menu li a.search-overlay-menu-btn:before {
     width: 0;
     position: absolute;
     pointer-events: none;
-    border-bottom-color: #DAA520;
+    border-bottom-color: #947004;
     border-width: 7px;
     margin-left: -7px
 }
@@ -1206,12 +1206,12 @@ ul#top_menu li a.search-overlay-menu-btn:before {
     -webkit-filter: brightness(none !important);
     filter: brightness(none !important);
     color: #fff !important;
-    background-color: #DAA520
+    background-color: #947004
 }
 
 .dropdown-cart .dropdown-menu a.btn_1:hover {
     color: #fff !important;
-    background-color: #DAA520
+    background-color: #947004
 }
 
 .hero_single {
@@ -1811,7 +1811,7 @@ ul#banners_grid li a.img_container .short_info p {
 }
 
 .call_section .box_1 {
-    background-color: #00A4B4;
+    background-color: #281e01;
     color: #fff;
     padding: 45px
 }
@@ -1857,7 +1857,7 @@ ul#banners_grid li a.img_container .short_info p {
 .main_title span em {
     width: 60px;
     height: 2px;
-    background-color: #DAA520;
+    background-color: #947004;
     display: block
 }
 
@@ -2067,7 +2067,7 @@ ul#banners_grid li a.img_container .short_info p {
     position: absolute;
     left: 2px;
     top: 65px;
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff;
     font-size: 11px;
     font-size: 0.6875rem;
@@ -2134,7 +2134,7 @@ ul#banners_grid li a.img_container .short_info p {
 }
 
 .new_price {
-    color: #DAA520;
+    color: #947004;
     font-weight: 500;
     font-size: 16px;
     font-size: 1rem
@@ -2457,7 +2457,7 @@ ul#banners_grid li a.img_container .short_info p {
 .table.cart-list td .dropdown-options>a {
     padding: 0;
     display: inline-block;
-    color: #DAA520
+    color: #947004
 }
 
 .table.cart-list td .dropdown-options>a:after {
@@ -2644,7 +2644,7 @@ ul#banners_grid li a.img_container .short_info p {
 
 .radio_select input[type="radio"]:focus+label {
     border: 1px solid transparent;
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff
 }
 
@@ -2654,7 +2654,7 @@ ul#banners_grid li a.img_container .short_info p {
 
 .radio_select input[type="radio"]:checked+label {
     border: 1px solid transparent;
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff
 }
 
@@ -2666,7 +2666,7 @@ ul#banners_grid li a.img_container .short_info p {
     position: fixed;
     bottom: 15px;
     left: 15px;
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff;
     padding: 12px 12px 10px 40px;
     font-weight: 500;
@@ -2708,7 +2708,7 @@ ul#banners_grid li a.img_container .short_info p {
 .box_booking_2 .head {
     text-align: center;
     padding: 23px 20px 18px 20px;
-    background-color: #DAA520;
+    background-color: #947004;
     color: #fff
 }
 
@@ -2971,7 +2971,7 @@ ul#banners_grid li a.img_container .short_info p {
 .box_contacts i {
     font-size: 46px;
     font-size: 2.875rem;
-    color: #DAA520
+    color: #947004
 }
 
 .box_contacts a {
@@ -3217,7 +3217,7 @@ iframe.map_contact {
 }
 
 .container_check input:checked~.checkmark {
-    background-color: #DAA520;
+    background-color: #947004;
     border: 1px solid transparent
 }
 
@@ -3307,7 +3307,7 @@ iframe.map_contact {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: #DAA520;
+    background: #947004;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -3378,7 +3378,7 @@ iframe.map_contact {
 .nav-link:hover,
 .nav-link:focus {
     text-decoration: none;
-    color: #DAA520
+    color: #947004
 }
 
 .nav-link.disabled {
@@ -3406,8 +3406,8 @@ iframe.map_contact {
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-    border-bottom: 2px solid #DAA520;
-    color: #DAA520;
+    border-bottom: 2px solid #947004;
+    color: #947004;
     background-color: transparent
 }
 
@@ -3477,21 +3477,21 @@ iframe.map_contact {
 }
 
 #toTop:hover {
-    background-color: #DAA520
+    background-color: #947004
 }
 
 footer {
-    /* background-color: #00A4B4; */
-    background-color: #00A4B4;
+    /* background-color: #281e01; */
+    background-color: #281e01;
     padding: 60px 0 10px 0;
     color: rgba(255, 255, 255, 0.6);
     position: relative
 }
 .react_out_call_to_action{
     min-height: 150px;
-    background-color: #DAA520;
-    color: #FFFFFF !important; 
-    font-weight: bold;
+    background-color: #fff;
+    color: #000000 !important; 
+    
 }
 .react_out_call_to_action h1{
     color: #FFFFFF;
@@ -3626,7 +3626,7 @@ footer .copy {
     -moz-border-radius: 0 3px 3px 0;
     -ms-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
-    background-color: #DAA520;
+    background-color: #947004;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -3969,7 +3969,7 @@ footer .copy {
 
 #cookie-bar .cb-enable:hover {
     background: #fff;
-    color: #00A4B4
+    color: #281e01
 }
 
 #cookie-bar .cb-disable {
@@ -3981,12 +3981,12 @@ footer .copy {
 }
 
 #cookie-bar .cb-policy {
-    background: #DAA520
+    background: #947004
 }
 
 #cookie-bar .cb-policy:hover {
     background: #fff;
-    color: #00A4B4
+    color: #281e01
 }
 
 #cookie-bar.fixed {
@@ -4088,8 +4088,8 @@ footer .copy {
 }
 
 #staff .item .title h4 {
-    background-color: #00A4B4;
-    background-color: #00A4B4;
+    background-color: #281e01;
+    background-color: #281e01;
     display: inline-block;
     -webkit-border-radius: 3px 3px 0 0;
     -moz-border-radius: 3px 3px 0 0;
@@ -4254,8 +4254,8 @@ footer .copy {
 }
 
 .box_overlay {
-    background-color: #00A4B4;
-    background-color: #00A4B4;
+    background-color: #281e01;
+    background-color: #281e01;
     padding: 45px 45px 45px 25px;
     color: #fff;
     position: relative;
@@ -4417,7 +4417,7 @@ footer .copy {
     -moz-border-radius: 0 3px 3px 0;
     -ms-border-radius: 0 3px 3px 0;
     border-radius: 0 3px 3px 0;
-    background-color: #00A4B4;
+    background-color: #281e01;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;

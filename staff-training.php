@@ -52,8 +52,8 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Staff Training</h1>
-							<p>Order food with home delivery or take away</p>
+							<h1>Hospitality Staff Training Services</h1>
+							
 						</div>
 					</div>
 					<!-- /row -->
@@ -74,80 +74,52 @@
 	                <div class="prod_info">
 						<div class="main_title center mb-5">
 							<span><em></em></span>
-							<h1 class="mt-3">Staff Training</h1>
+							<h1 class="mt-3">Hospitality Staff Training Services</h1>
+							<h4>Competitive advantage through people… unleashing potential.</h4>
+							
 						</div>
 						<p>
-							Today’s customers are constantly moving, are connected and are more informed than ever before. To keep pace, organisations must understand the myriad ways in which customers want to interact with them.
+						Today’s customers are constantly moving, are connected and are more informed than ever before. To keep pace, organisations must understand the myriad ways in which customers want to interact with them. Our training programs will help your organization differentiate itself from the competition, will enable the employees get acquainted with their jobs and increase their aptitudes, skills and knowledge. “Education is the lighting of a fire, not filling up of a pot” It makes new recruits fully productive in the minimum of time and necessary to refresh older and longer serving employees keep up with new methods and techniques for doing work. Finally, it identifies the value to business, of developing staff and maintaining strong client relationships, helping to support the decision-making process that leads to better sales opportunities.
 						</p>
 						<p>
-							Our training programs will help your organization differentiate itself from the competition, will enable the employees get acquainted with their jobs and increase their aptitudes, skills and knowledge.
+						The hospitality industry has drastically grown as new service skills continue to emerge. It is with this background that staff should keep abreast with the new trends in order to meet and satisfy or exceed customer needs at all times. The ability of staff to deliver good and consistent level of service should never be under-estimated as this is what guarantees repeat business and good profits.
 						</p>
-						<p>
-							It makes new recruits fully productive in the minimum of time and necessary to refresh older and longer serving employees keep up with new methods and techniques for doing work. Finally, it identifies the value to business, of developing staff and maintaining strong client relationships, helping to support the decision-making process that leads to better sales opportunities.
-						</p>
-						<p>
-							The hospitality industry has drastically grown as new service skills continue to emerge. It is with this background that staff should keep abreast with the new trends in order to meet and satisfy or exceed customer needs at all times. The ability of staff to deliver good and consistent level of service should never be under-estimated as this is what guarantees repeat business and good profits.
-						</p>
+						<h4>The Plan</h4>
+						<p>We have developed a customized workshop to engage and equip your staff to take their service delivery to another level. This program will include interactive exercises, practical examples, and real-time coaching to facilitate better understanding.</p>
+
+						
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
 	        </div>
 	        <!-- /row -->			
+			<div class="row container">
+				<div col-md-12>
+			<h4>The characteristics that guarantee training success are</h4>
+						<ol>
+							<li>Identifed need</li>
+							<li>Involvement</li>
+							<li>Innovation & Flexibility</li>
+						</ol>
+
+						<h4>The Goal</h4>
+						<ol>
+							<li>To increase awareness and commitment to deliver exceptional customer experiences.</li>
+							<li>To equip staff with techniques in service delivery so that they exceed expectations for internal and external customers. </li>
+							<li>Highlight the importance of first impressions and in mastering the initial moments that set the tone for the customer experience. </li>
+							<li>Promote and nurture greater consistency in service delivery and techniques in issue resolution. </li>
+							<li>Adapt to increased diversity of the workforce</li>
+							<li>Support career development and employee need for growth.</li>
+						</ol>
+
+
+						<h4>Program Details</h4>
+						<p>These are tailor-made program plans aimed at transforming your staff to be more effective and result oriented at work. It is offered at special introductory rates. Training sessions are prepared and charged per the needs of the different department sections, i.e., Food and beverage service and sales, housekeeping and laundry, Production and front office.</p>
+			</div>
+			</div>
 		</div>
 
-		<div class="container margin_60_40">
-			<div class="row">
-				<div class="col-lg-6" id="sidebar_fixed">
-					<div class="prod_info">
-						<div class="main_title center mb-5">
-							<span><em></em></span>
-							<h1 class="mt-3">The Plan</h1>
-						</div>
-						<p>
-							I have developed a customized workshop to engage and equip your staff to take their service delivery to another level. This program will include interactive exercises, practical examples, and real-time coaching to facilitate better understanding.
-						</p>
-						<p>
-							The characteristics that guarantee training success are
-						</p>
-						<p>
-							<ol>
-								<li>Identified need</li>
-								<li>Involvement</li>
-								<li>Innovation and flexibility</li>
-							</ol>
-						</p>
-					</div>
-					<!-- /prod_info -->
-				</div>
-	            <div class="col-lg-6 magnific-gallery">
-					<div class="main_title center mb-5">
-							<span><em></em></span>
-						<h1 class="mt-3">The Goal</h1>
-					</div>
-					<ol>
-						<li>
-							To increase awareness and commitment to deliver exceptional customer experiences.
-						</li>
-						<li>
-							To equip staff with techniques in service delivery so that they exceed expectations for internal and external customers. 
-						</li>
-						<li>
-							Highlight the importance of first impressions and in mastering the initial moments that set the tone for the customer experience. 
-						</li>
-						<li>
-							Promote and nurture greater consistency in service delivery and techniques in issue resolution. 
-						</li>
-						<li>
-							Adapt to increased diversity of the workforce
-						</li>
-						<li>
-							Support career development and employee need for growth.
-						</li>
-					</ol>
-	            </div>
-	        </div>
-	        <!-- /row -->			
-		</div>
+	
 		<!-- /container -->
 	</main>
 	<!-- /main -->

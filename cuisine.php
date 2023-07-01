@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi Hospitalityuisine</title>
+    <title>Wazi Cuisine</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -51,7 +51,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Cuisine</h1>
+							<h1>Wazi Cuisine</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -65,48 +65,78 @@
 			<div class="row">
 	            <div class="col-lg-6 magnific-gallery">
 	                <p>
-	                    <a href="assets/images/cuisine.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/cuisine.jpg" alt="" class="img-fluid"></a>
+	                    <a href="assets/images/cuisine.jpg" title="Photo title" ><img src="assets/images/cuisine.jpg" alt="" class="img-fluid"></a>
 	                </p>
 	            </div>
-	            <div class="col-lg-6" id="sidebar_fixed">
+	            <div class="col-lg-6" >
 	                <div class="prod_info">
-	                    <h1>Cuisine</h1>
+	                    <h1>Wazi Cuisine</h1>
+						<h4>Extravagant tastes. Promoting wellness. Relaxing pleasure.</h4>
+
+						<h6>Local Produce</h6>
 	                    <p>
-							We serve a blended taste of both  <b>local and international cuisine</b>  and invite you to rest and relax as you enjoy a meal or drink anytime when and where you need it.
+						Wherever possible we ensure that we source locally and support producers of high quality ingredients for use in our menus.
 						</p>
 						<p>
 							Our food Philosophy and uniqueness is driven by flavor, freshness, innovation and sustainability.
 						</p>
 						<p>
-							We guarantee you our client, an experience that is sure to delight your senses as we combine menus with contemporary and traditional flavors from diverse regions across the globe including our local dishes here in Kenya, Asian and Indian flavors. 
+						All our fruit and vegetable suppliers are scrutinized intensively to ensure they deliver the freshest, healthiest and most flavorful products.
 						</p>
 						<p>
-							Our specialized Chefs, Baristas and mixologists work with a variety of cooking styles from cooking ranges, Jikogrills, shawarma’s, tandoori just to ensure you get the correct distinctive tastes.
+						Our aim is to make food fun, delicious and appealing.
 						</p>
-						<p></p>
+						
+						
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
 	        </div>
+
 			<div class="col-lg-12">
 					<div class="prod_info">
-						<h1>Commitment to freshness</h1>
-						<p>
-							Wazi provides a wide array of fruits and vegetables and ensures that they are fresh and create delightful meals. That our markets offer an abundance of fresh produce enable us source locally. Our meats and dairies are also sourced from reputable and accredited suppliers and as an organization we practice strict levels of hygiene. This way we guarantee environments free of food contamination and any resultant food poisoning.
-						</p>
-						<p>
-							On sustainability, we ensure our cooking processes eliminate food waste, and our storage facilities avoid spoilage. We also train our staff and casuals under our training department to equip them with hospitality knowledge and quick response to guest concerns and issues as well as on emerging trends to cope with workplace dynamics.
-						</p>
-						<p>
-							Resilience is the capacity for our core business to endure and respond to disruption in a way that either resists or limits damage and enables swift recovery. Resilient systems are characterized as adaptable, flexible, agile and able to deal with change and uncertainty.
-						</p>
-						<p>
-							Innovation is the essence of creation and we believe in continuous growth, exposure and evolution.
-							From large scale catering to the smallest family dinner, we continue to deliver unique culinary experiences that are the hallmark of the wazi experience
-						</p>
+					<h4>Our corporate and private catering includes and is not limited to : </h4>
+						<ol>
+							<li>Corporate catering for office parties, cocktails, breakfast and lunch meetings, as well as canteen management</li>
+							<li>Outdoor catering for weddings, bridal and baby showers, graduations, birthdays, child christening, family reunions, nyombo, ruracio. Koito etc.</li>
+							<li>Sport and festival catering</li>
+							<li>Home Catering</li>
+							<li>Live Cooking</li>
+							<li>Client Customization Menu</li>
+							<li>Indulge the unique creation of our renowned chefs in offering you diverse menu options including live cooking stations for your events.</li>
+
+						</ol>
+
+						<p>Indulge the unique creation of our renowned chefs in offering you diverse menu options including live cooking stations for your events.</p>
 					</div>
 				</div>
-	        <!-- /row -->			
+	        <!-- /row -->		
+			
+			
+			<!-- wazi bar -->
+			<div class="row">
+	            
+	            <div class="col-lg-12" >
+	                <div class="prod_info">
+	                    <h1>Wazi Bar</h1>
+						
+	                    <p>
+						Our mixologists and baristas are always prepared to provide an array of cocktails and mocktails for your event. Your choice to have them shaken or stirred to wow your clients is our pleasure. 
+						</p>
+						
+						
+						
+	                </div>
+	                <!-- /prod_info -->
+	            </div>
+
+				<div class="col-lg-12 magnific-gallery">
+	                <p>
+	                    <a href="assets/images/wazi-mixologist-bar.jpg" title="Photo title" ><img src="assets/images/wazi-mixologist-bar.jpg" alt="" class="img-fluid"></a>
+	                </p>
+	            </div>
+	        </div>
+			<!-- wazi bar end -->
 		</div>
 		<!-- /container -->
 	</main>

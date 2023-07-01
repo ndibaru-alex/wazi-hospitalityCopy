@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi Hospitality | Pest Control Solutions</title>
+    <title>Wazi Consultancy and Design Concepts</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -52,7 +52,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Kitchen and Restaurant Design</h1>
+							<h1>Consultancy and Design Concepts</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -63,32 +63,49 @@
 		<!-- /hero_single -->
 
 		<div class="container margin_60_40">
-			<div class="row">
-	            <div class="col-lg-6 magnific-gallery">
-	                <p>
-	                    <a href="assets/images/7xm.xyz945065.jpg" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/7xm.xyz945065.jpg" alt="" class="img-fluid"></a>
-	                </p>
-	            </div>
-	            <div class="col-lg-6" id="sidebar_fixed">
-	                <div class="prod_info">
-	                    <h1>Kitchen and Restaurant Design</h1>
-                        <h3>Consultancy</h3>
+			<div class="row ">
+			
+	            
+	            <div class="col-lg-6" >
+	                <div class="prod_info text-left">
+					<h1>Consultancy and Design concepts</h1>
+	                    
+                        <h3>Restaurant & Kitchen Design</h3>
 						<p>
-                            Wazi is here to serve you set up a new service business or help you replace or upgrade an existing one. We listen to your vision, advice on the best ways to utilize space and ensure practical implementation. We work within your budget and offer tailored competitive pricing and guarantee customer satisfaction. 
+						For restaurant and kitchen design, we do a site visit to see and understand the space, understand client use of space, wishes, and budget then work with experts to deliver.
 						</p>
-                        <h3>Site Survey</h3>
-						<p>
-                            After consultation, we visit the site to get you the right customization fit. We believe in getting it right the first time. The survey ensures right selection of equipment with specs space settings, orientation, hygiene and overall aesthetics of the kitchen or restaurant. This process ensures maximum efficiency, least cost and wastages in your kitchen. 
-						</p>
-                        <h3>Layout Design</h3>
-                        <p>
-                            We offer low cost solution for preparing 2D& 3D floor plans that clearly bring out your dream kitchen. Our designs allow for selection of equipment, space setting, orientation and hygiene. We offer quick 24-hour turnaround of all floor plans in any image jpeg or pdf format. 
-                        </p>
+                       <p>We follow the process outlined for perfect project delivery:</p>
 	                </div>
 	                <!-- /prod_info -->
 	            </div>
+
+				<div class="col-lg-6 magnific-gallery">
+	                <p>
+	                    <a href="assets/images/images.png" title="Photo title"><img src="assets/images/images.png" alt="" class="img-fluid"></a>
+	                </p>
+	            </div>
 	        </div>
-	        <!-- /row -->			
+	        <!-- /row -->		
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h4>Taking your business personally… Maximum productivity. Enhancing spaces.</h4>
+						<p>Wazi is here to serve you set up a new service business or help you replace or upgrade an existing one.</p>
+
+						<p>We listen to your vision, advice on the best ways to utilize space and ensure practical implementation. We work within your budget and offer tailored competitive pricing and guarantee customer satisfaction. </p>
+
+						<h4>Site Survey</h4>
+						<p>After consultation, we visit the site to get you the right customization fit. We believe in getting it right the first time. The survey ensures right selection of equipment with specs space settings, orientation, hygiene and overall aesthetics of the kitchen or restaurant. This process ensures maximum efficiency, least cost and wastages in your kitchen.</p>
+
+						<h4>Layout Design</h4>
+						<p>We offer low cost solution for preparing 2D& 3D floor plans that clearly bring out your dream kitchen. Our designs allow for selection of equipment, space setting, orientation and hygiene.</p>
+
+						<p>We offer quick 24-hour turnaround of all floor plans in any image jpeg or pdf format.</p>
+					</div>
+				</div>
+
+			</div>
 		</div>
 		<!-- /container -->
 	</main>
