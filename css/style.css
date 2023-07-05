@@ -115,7 +115,7 @@ body {
     font-size: 0.875rem;
     line-height: 1.7;
     font-family: "Poppins", Helvetica, sans-serif;
-    color: #444
+    color: #010101
 }
 
 h1,
@@ -124,7 +124,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #910951;
+    color: #4b0000;
     font-weight: 500;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -412,7 +412,7 @@ header.header.sticky {
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     border-bottom: 1px solid #ededed;
-    background-color: #fff
+    background-color: #f4f4f4
 }
 
 @media (max-width: 991px) {
@@ -454,7 +454,7 @@ header.header_in.is_sticky {
 }
 
 header.header_in ul#top_menu li a {
-    color: #444
+    color: #010101
 }
 
 @media (max-width: 991px) {
@@ -497,7 +497,7 @@ header a.open_close:hover {
 
 header.sticky a.open_close,
 .header_in a.open_close {
-    color: #444
+    color: #010101
 }
 
 #logo {
@@ -559,7 +559,7 @@ header.sticky a.open_close,
 
 header.sticky .main-menu>ul>li>a,
 header.header_in .main-menu>ul>li>a {
-    color: #444
+    color: #010101
 }
 
 header.sticky .main-menu>ul>li:hover>a,
@@ -657,7 +657,7 @@ header.header_in .main-menu>ul>li:hover>a {
     .main-menu ul ul li a {
         font-size: 13px;
         font-size: 0.8125rem;
-        color: #444;
+        color: #010101;
         border-bottom: 1px solid #ededed;
         display: block;
         padding: 12px 15px;
@@ -800,7 +800,7 @@ header.header_in .main-menu>ul>li:hover>a {
         font-size: 21px;
         font-size: 1.3125rem;
         content: "\33";
-        color: #444;
+        color: #010101;
         line-height: 1;
         float: right;
         display: inline-block;
@@ -1034,7 +1034,7 @@ ul#top_menu li a.search-overlay-menu-btn:before {
 
 .sticky ul#top_menu li a.cart_bt:before,
 .sticky ul#top_menu li a.search-overlay-menu-btn:before {
-    color: #444
+    color: #010101
 }
 
 ul#top_menu li a.search-overlay-menu-btn {
@@ -1055,7 +1055,7 @@ ul#top_menu li a.search-overlay-menu-btn:before {
 }
 
 .sticky ul#top_menu li a.search-overlay-menu-btn:before {
-    color: #444
+    color: #010101
 }
 
 .dropdown-cart .dropdown-menu {
@@ -1180,7 +1180,7 @@ ul#top_menu li a.search-overlay-menu-btn:before {
 }
 
 .dropdown-cart .dropdown-menu ul li strong {
-    color: #444;
+    color: #010101;
     margin-top: 5px;
     display: inline-block;
     color: #333;
@@ -1956,7 +1956,7 @@ ul#banners_grid li a.img_container .short_info p {
     -o-background-size: cover;
     background-size: cover;
     width: 100%;
-    height: 350px;
+    height: 450px;
     position: relative;
     margin-bottom: 60px
 }
@@ -2339,7 +2339,7 @@ ul#banners_grid li a.img_container .short_info p {
 
 .box_booking .main ul li a {
     padding-left: 30px;
-    color: #444;
+    color: #010101;
     display: inline-block;
     position: relative
 }
@@ -2415,7 +2415,7 @@ ul#banners_grid li a.img_container .short_info p {
     margin: 0;
     font-size: 13px;
     font-size: 0.8125rem;
-    color: #444
+    color: #010101
 }
 
 .table.cart-list td figure {
@@ -2527,7 +2527,7 @@ ul#banners_grid li a.img_container .short_info p {
 .box_booking .dropdown a {
     padding: 15px 15px 12px 15px;
     line-height: 1;
-    color: #444;
+    color: #010101;
     font-weight: 500;
     display: block;
     position: relative
@@ -2975,7 +2975,7 @@ ul#banners_grid li a.img_container .short_info p {
 }
 
 .box_contacts a {
-    color: #444
+    color: #010101
 }
 
 .box_contacts a:hover {
@@ -3358,7 +3358,7 @@ iframe.map_contact {
 }
 
 .loader.register {
-    color: #444
+    color: #010101
 }
 
 .error_message {
@@ -3372,7 +3372,7 @@ iframe.map_contact {
     height: 30px;
     font-size: 15px;
     font-size: 0.9375rem;
-    color: #444
+    color: #010101
 }
 
 .nav-link:hover,
@@ -3489,7 +3489,7 @@ footer {
 }
 .react_out_call_to_action{
     min-height: 150px;
-    background-color: #fff;
+    background-color: #f4f4f4;
     color: #000000 !important; 
     
 }
@@ -4449,3 +4449,19 @@ h1{
 a.active{
     color: #FFC107 !important;
 }
+
+/* Define the keyframes for the shaking animation */
+@keyframes shake {
+    0% { transform: rotate(0); }
+  20% { transform: rotate(5deg); }
+  40% { transform: rotate(-5deg); }
+  60% { transform: rotate(10deg); }
+  80% { transform: rotate(-10deg); }
+  100% { transform: rotate(0); }
+  }
+  
+  /* Apply the animation to the element with the shake-element class */
+  .shake-element {
+    animation: shake 2s ease-out;
+  }
+  

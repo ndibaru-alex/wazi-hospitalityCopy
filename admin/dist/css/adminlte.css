@@ -32012,7 +32012,7 @@ html.maximized-card {
 .btn-default {
   background-color: #f8f9fa;
   border-color: #ddd;
-  color: #444;
+  color: #010101;
 }
 
 .btn-default:hover, .btn-default:active, .btn-default.hover {
@@ -32021,7 +32021,7 @@ html.maximized-card {
 }
 
 .btn-default.disabled, .btn-default:disabled {
-  color: #444;
+  color: #010101;
   background-color: #f8f9fa;
 }
 
@@ -32068,7 +32068,7 @@ html.maximized-card {
 .btn-app:hover {
   background-color: #f8f9fa;
   border-color: #aaaaaa;
-  color: #444;
+  color: #010101;
 }
 
 .btn-app:active, .btn-app:focus {
@@ -33949,7 +33949,7 @@ a.close.disabled, a.disabled.mailbox-attachment-close {
   border-radius: 0.3rem;
   background-color: #d2d6de;
   border: 1px solid #d2d6de;
-  color: #444;
+  color: #010101;
   margin: 5px 0 0 50px;
   padding: 5px 10px;
   position: relative;
@@ -40073,7 +40073,7 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   background-color: #f8f9fa;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
-  color: #444;
+  color: #010101;
   cursor: pointer;
   font-weight: 700;
   height: 16px;
@@ -40113,7 +40113,7 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   background-color: #f8f9fa;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
-  color: #444;
+  color: #010101;
   height: 15px;
   width: 15px;
   padding: 1px 2px;
@@ -47227,7 +47227,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -47759,7 +47759,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-gray-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -50508,7 +50508,7 @@ a.text-muted:hover {
 }
 
 .dark-mode .bg-gradient-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -51040,7 +51040,7 @@ a.text-muted:hover {
 }
 
 .dark-mode .bg-gradient-gray-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }

@@ -47,7 +47,7 @@
 	
 
 	<main>
-		<div class="hero_single inner_pages background-image" data-background="url(assets/images/staff-training.jpg)">
+		<div class="shake-element hero_single inner_pages background-image" data-background="url(assets/images/staff-training.jpg)">
 			<div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 				<div class="container">
 					<div class="row justify-content-center">

@@ -58,7 +58,7 @@ $_SESSION['active'] = "home"
 										<h2 class="owl-slide-animated owl-slide-title">
 											Welcome To Wazi Cuisine & Hospitality
 										</h2>
-										<p class="owl-slide-animated owl-slide-subtitle"> Extravagant tastes. Promoting wellness. Relaxing pleasure. </p>
+										<p class="owl-slide-animated owl-slide-subtitle"> Home of sterling experiences ...whenever </p>
 										<div class="owl-slide-animated owl-slide-cta"><a class="btn_1" href="contacts.php" role="button">Let's Talk</a></div>
 									</div>
 								</div>
@@ -157,10 +157,11 @@ $_SESSION['active'] = "home"
 				<!-- /main_title -->
 				<div class="banner lazy" data-bg="url(assets/imgs/breakfast-options/pumpkin-soup.jpg)">
 
-					<div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
-						<p>
-						We are driven by our purpose of creating unique distinct and sterling(priceless) experiences where and when the client needs them.
-						</p>
+					<div class="wrapper  align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+						<p> It's our company culture of creativity, continuous learning and collaboration. </p>
+						<p>Creativity and innovation are the drivers of success. Out of the box thinking and fresh ideas, brainstorming are crucial for growth and progress. Pushing boundaries of possibility can create solutions that stand out and make positive impact. </p>
+						<p>Learning is essential for both individual and group growth. Whether on the job training , formal or job experience, we commit to learning, sharing knowledge and best best practise.</p>
+						<p>Collaboration is key and essential for achieving common goals. It brings different perspective and skills to the table leading to better problem solving and decision making., leverages on people strength and ensures no person bears the burden of success or failure alone.</p>
 					</div>
 					<!-- /wrapper -->
 				</div>
@@ -177,7 +178,7 @@ $_SESSION['active'] = "home"
 					<div class="col-sm-4 mb-4">
 						<div class="card border-0 h-100">
 							<div class="card-body">
-								<h4>Corporate & Private Catering</h4>
+								<h4>Wazi cuisine / catering</h4>
 								<p>
 									Experience the convenience of professional food services tailored to your unique event, with delectable menus, impeccable presentation, and flawless execution that leave a lasting impression.
 								</p>
@@ -190,7 +191,7 @@ $_SESSION['active'] = "home"
 					<div class="col-sm-4 mb-4">
 						<div class="card border-0 h-100">
 							<div class="card-body">
-								<h4>Professional Cleaning Solutions</h4>
+								<h4>Housekeeping  and pest control services</h4>
 								<p>
 									We understand first impressions count. Whether you are hosting clients, interviewing, or it’s just the regular workforce, great sanitation and ambiance are critical.
 								</p>
@@ -215,7 +216,7 @@ $_SESSION['active'] = "home"
 					<div class="col-sm-4 mb-4">
 						<div class="card border-0 h-100">
 							<div class="card-body">
-								<h4>Facility layout & Design</h4>
+								<h4>Consultancy and Kitchen and  design solutions</h4>
 								<p>
 									Facility layout & design: Optimize operational efficiency, maximize space utilization, and create a visually appealing environment through strategic planning and thoughtful design solutions.
 								</p>

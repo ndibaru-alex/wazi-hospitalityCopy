@@ -24206,7 +24206,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -24738,7 +24738,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 .bg-gradient-gray-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -27487,7 +27487,7 @@ a.text-muted:hover {
 }
 
 .dark-mode .bg-gradient-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }
@@ -28019,7 +28019,7 @@ a.text-muted:hover {
 }
 
 .dark-mode .bg-gradient-gray-dark.btn:hover {
-  background: #343a40 linear-gradient(180deg, #44474b, #23272b) repeat-x !important;
+  background: #343a40 linear-gradient(180deg, #01010174b, #23272b) repeat-x !important;
   border-color: #1d2124;
   color: #ececec;
 }

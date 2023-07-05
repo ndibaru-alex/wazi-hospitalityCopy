@@ -136,7 +136,7 @@
 .ui-widget-header .ui-state-default {
     border: 1px dotted #ccc;
     font-weight: 600;
-    color: #444
+    color: #010101
 }
 
 .ui-state-default a,
@@ -165,12 +165,12 @@
 
 .ui-state-highlight {
     background: #dfd;
-    color: #444 !important
+    color: #010101 !important
 }
 
 .ui-datepicker-today .ui-state-default {
     background: #eee;
-    color: #444
+    color: #010101
 }
 
 .ui-datepicker-today .ui-state-default:hover {
@@ -231,7 +231,7 @@
 .custom_drop .dropdown a {
     padding: 15px 15px 12px 15px;
     line-height: 1;
-    color: #444;
+    color: #010101;
     font-weight: 500;
     display: block;
     position: relative

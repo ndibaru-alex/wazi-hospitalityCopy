@@ -153,11 +153,11 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop12" />
       <stop
          offset=".21"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop14" />
       <stop
          offset=".29"
@@ -193,11 +193,11 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop29" />
       <stop
          offset=".21"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop31" />
       <stop
          offset=".29"
@@ -233,7 +233,7 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop46" />
       <stop
          offset=".51"
@@ -253,7 +253,7 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset=".08"
-         stop-color="#910951"
+         stop-color="#4b0000"
          id="stop53" />
       <stop
          offset=".43"

@@ -10929,7 +10929,7 @@ html.maximized-card {
 .btn-default {
   background-color: #f8f9fa;
   border-color: #ddd;
-  color: #444;
+  color: #010101;
 }
 
 .btn-default:hover, .btn-default:active, .btn-default.hover {
@@ -10938,7 +10938,7 @@ html.maximized-card {
 }
 
 .btn-default.disabled, .btn-default:disabled {
-  color: #444;
+  color: #010101;
   background-color: #f8f9fa;
 }
 
@@ -10985,7 +10985,7 @@ html.maximized-card {
 .btn-app:hover {
   background-color: #f8f9fa;
   border-color: #aaaaaa;
-  color: #444;
+  color: #010101;
 }
 
 .btn-app:active, .btn-app:focus {

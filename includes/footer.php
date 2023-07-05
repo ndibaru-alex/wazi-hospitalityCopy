@@ -3,13 +3,13 @@
 
         <div class="col-md-6">
             <h2>Value Proposition</h2>
-            <p>Our value propositions: accessibility, customization and affordability. The company creates accessibility by providing a broad range of options.</p>
+            <p>Accessibility, customization and affordability. The company creates accessibility by providing a broad range of options.</p>
         </div>
         
         <div class="col-md-6">
             <h2>Brand Promise</h2>
 
-            <p>Memories are made of these: quality, professionalism, personal touch.</p>
+            <p>Quality services executed professionally and with a personal touch.</p>
             <a href="contact.php"><button class="btn btn-primary">Get In Touch</button></a>
 
         </div>

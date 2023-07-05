@@ -46,6 +46,13 @@
                     <a href="#0" class="show-submenu">Wazi Solutions</a>
                     <ul>
 
+                       
+                        <li><a href="catering.php" class="<?php if ($_SESSION['active'] == "catering") {
+                                                                echo "active";
+                                                            } ?>">Cuisine / Catering</a></li>
+
+
+
                         <li><a href="cleaning-solutions.php" class="<?php if ($_SESSION['active'] == "cleaning") {
                                                                         echo "active";
                                                                     } ?>">House Keeping</a></li>
@@ -53,21 +60,14 @@
                                                                     echo "active";
                                                                 } ?>">Hospitality Staff Training</a></li>
                         <!-- <li><a href="facility-layout-and-designs.php" class="<?php if ($_SESSION['active'] == "facility") {
-                                                                                    echo "active";
-                                                                                } ?>">Facility Layout & Designs</a></li> -->
+                                                                                        echo "active";
+                                                                                    } ?>">Facility Layout & Designs</a></li> -->
 
-                        <li><a href="cuisine.php" class="<?php if ($_SESSION['active'] == "cuisine") {
-                                                                echo "active";
-                                                            } ?>">Cuisine</a></li>
-                        <li><a href="catering.php" class="<?php if ($_SESSION['active'] == "catering") {
-                                                                echo "active";
-                                                            } ?>">Catering</a></li>
-                        <li><a href="pest-control-solutions.php" class="<?php if ($_SESSION['active'] == "pest") {
-                                                                            echo "active";
-                                                                        } ?>">Pest Control</a></li>
+                        
+                        
                         <li><a href="consultancy-and-design.php" class="<?php if ($_SESSION['active'] == "kitchen") {
-                                                                                    echo "active";
-                                                                                } ?>">Consultancy & Design</a></li>
+                                                                            echo "active";
+                                                                        } ?>">Consultancy & Design</a></li>
 
                     </ul>
                 </li>

@@ -26,7 +26,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr > th.dtr-control:before {
   color: white;
   border: 0.15em solid white;
   border-radius: 1em;
-  box-shadow: 0 0 0.2em #444;
+  box-shadow: 0 0 0.2em #010101;
   box-sizing: content-box;
   text-align: center;
   text-indent: 0 !important;
@@ -75,7 +75,7 @@ table.dataTable.dtr-column > tbody > tr > th.control:before {
   color: white;
   border: 0.15em solid white;
   border-radius: 1em;
-  box-shadow: 0 0 0.2em #444;
+  box-shadow: 0 0 0.2em #010101;
   box-sizing: content-box;
   text-align: center;
   text-indent: 0 !important;

@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Wazi Hospitality">
     <meta name="author" content="#">
-    <title>Wazi House Keeping & Professional Cleaning Services</title>
+    <title>Wazi Housekeeping  & pest control services</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -46,12 +46,12 @@
 	
 
 	<main>
-		<div class="hero_single inner_pages background-image" data-background="url(assets/images/house-keeping-cleaning.jpg)">
+		<div class="shake-element hero_single inner_pages background-image" data-background="url(assets/images/house-keeping-cleaning.jpg)">
 			<div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 				<div class="container">
 					<div class="row justify-content-center">
-						<div class="col-xl-9 col-lg-10 col-md-8">
-							<h1>Wazi House Keeping & Professional Cleaning Services</h1>
+						<div class="col-xl-9 col-lg-10 col-md-8 ">
+							<h1>Housekeeping  & pest control services</h1>
 						</div>
 					</div>
 					<!-- /row -->
@@ -70,7 +70,7 @@
 	            </div>
 	            <div class="col-lg-6" >
 	                <div class="prod_info">
-	                    <h1>Wazi House Keeping & Professional Cleaning Services</h1>
+	                    <h1>Housekeeping  & pest control services</h1>
 						<h4>Transforming your space...  new scenery and surrounding… A clean difference</h4>
 	                    <p>
 						A thorough professional cleaning is an important factor in keeping your home or office fresh clean and healthy. We provide high quality cleaning services for both indoors and outdoors and believe that people are more productive when they are nurtured and inspired by their surroundings.
@@ -105,44 +105,9 @@
 	        </div>
 
 			
-			<!-- <div class="row mt-5">
-	            <div class="col-lg-6" id="sidebar_fixed">
-	                <div class="prod_info">
-	                    <p>
-							A thorough professional cleaning is an important factor in keeping your home fresh clean and healthy
-						</p>
-						<p>
-							Our team is committed to providing personalized cleaning services for your homes and offices.
-						</p>
-						<p>
-							We provide high quality cleaning services for both indoors and outdoors and believe clean environments impact the wellbeing and productivity of our customers 
-						</p>
-						<p>
-							Our solutions include:-
-							<ol>
-								<li>Carpet and fabric cleaning</li>
-								<li>Fumigation and pest control</li>
-								<li>Office cleaning and disinfection</li>
-								<li>House spring cleaning</li>
-								<li>Post construction cleaning</li>
-								<li>After event cleaning</li>
-							</ol>
-						</p>
-						<p>
-							Your employees, guests and clients require and need to feel comfort and value. Accommodating their basic rights is your duty.  The environment you create greatly benefits your business.
-						</p>
-						<p>
-							Our cleaning solutions offers you maintenance and care whilst you concentrate on your core business.
-						</p>
-	                </div>
-	                
-	            </div>
-				<div class="col-lg-6 magnific-gallery">
-	                <p>
-	                    <a href="assets/images/images.png" title="Photo title" data-effect="mfp-zoom-in"><img src="assets/images/images.png" alt="" class="img-fluid"></a>
-	                </p>
-	            </div>
-	        </div> -->
+			<div class="row mt-5">
+			<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="pest-control-solutions.php" role="button">Read More About Wazi Pest Control</a></div>
+	        </div>
 	        		
 		</div>
 		<!-- /container -->

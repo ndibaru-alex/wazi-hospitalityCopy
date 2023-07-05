@@ -6,7 +6,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from www.ansonika.com/foores/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 08:19:46 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -44,7 +44,7 @@
 	<!-- /header -->
 	
 	<main>
-	    <div class="hero_single inner_pages background-image" data-background="url(assets/imgs/breakfast-options/nuts.jpg)">
+	    <div class="shake-element hero_single inner_pages background-image" data-background="url(assets/imgs/breakfast-options/nuts.jpg)">
 	        <div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
 	            <div class="container">
 	                <div class="row justify-content-center">
@@ -116,5 +116,4 @@
 
 </body>
 
-<!-- Mirrored from www.ansonika.com/foores/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 08:19:46 GMT -->
 </html>

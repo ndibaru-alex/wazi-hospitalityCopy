@@ -4862,7 +4862,7 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   background-color: #f8f9fa;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
-  color: #444;
+  color: #010101;
   cursor: pointer;
   font-weight: 700;
   height: 16px;
@@ -4902,7 +4902,7 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   background-color: #f8f9fa;
   border: 1px solid #ddd;
   border-radius: 0.25rem;
-  color: #444;
+  color: #010101;
   height: 15px;
   width: 15px;
   padding: 1px 2px;
