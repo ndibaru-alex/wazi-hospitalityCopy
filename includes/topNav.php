@@ -46,7 +46,7 @@
                     <a href="#0" class="show-submenu">Wazi Solutions</a>
                     <ul>
 
-                       
+
                         <li><a href="catering.php" class="<?php if ($_SESSION['active'] == "catering") {
                                                                 echo "active";
                                                             } ?>">Cuisine / Catering</a></li>
@@ -63,13 +63,18 @@
                                                                                         echo "active";
                                                                                     } ?>">Facility Layout & Designs</a></li> -->
 
-                        
-                        
+
+
                         <li><a href="consultancy-and-design.php" class="<?php if ($_SESSION['active'] == "kitchen") {
                                                                             echo "active";
                                                                         } ?>">Consultancy & Design</a></li>
 
                     </ul>
+                </li>
+                <li class="submenu">
+                    <a href="careers.php" class="show-submenu <?php if ($_SESSION['active'] == "career") {
+                                                                echo "active";
+                                                            } ?>">Careers</a>
                 </li>
 
                 <li class="submenu">

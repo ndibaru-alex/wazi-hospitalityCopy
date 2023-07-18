@@ -66,10 +66,10 @@ $_SESSION['active'] = "catering"
 			<div class="row">
 				<div class="col-lg-6">
 					<p>
-						<a href="assets/images/catering.jpg" title="Photo title" ><img src="assets/images/catering.jpg" alt="" class="img-fluid"></a>
+						<a href="assets/images/catering.jpg" title="Photo title"><img src="assets/images/catering.jpg" alt="" class="img-fluid"></a>
 					</p>
 				</div>
-				<div class="col-lg-6" >
+				<div class="col-lg-6">
 					<div class="prod_info">
 						<h2>Corporate & Private Catering</h2>
 						<h4>Wazi Cuisine</h4>
@@ -85,7 +85,7 @@ $_SESSION['active'] = "catering"
 
 						<h5>Commitment to freshness</h5>
 						<p>Wazi provides a wide array of fruits and vegetables and ensures that they are fresh and create delightful meals. That our markets offer an abundance of fresh produce enable us source locally. Our meats and dairies are also sourced from reputable and accredited suppliers and as an organization we practice strict levels of hygiene. This way we guarantee environments free of food contamination and any resultant food poisoning.</p>
-						
+
 						<h5>Commitment to Sustainability</h5>
 						<p>On sustainability, we ensure our cooking processes eliminate food waste, and our storage facilities avoid spoilage. We also train our staff and casuals under our training department to equip them with hospitality knowledge and quick response to guest concerns and issues as well as on emerging trends to cope with workplace dynamics.</p>
 
@@ -95,7 +95,7 @@ $_SESSION['active'] = "catering"
 						<p>Innovation is the essence of creation and we believe in continuous growth, exposure and evolution.
 							From large scale catering to the smallest family dinner, we continue to deliver unique culinary experiences that are the hallmark of the wazi experience</p>
 
-						<p>"Kitchens of Wazi " is intended to be Kenya's leading outdoor catering and banqueting production house. </p>
+						<p>" Lishe by wazi " is intended to be Kenya's leading outdoor catering and banqueting production house. </p>
 
 
 
@@ -108,7 +108,7 @@ $_SESSION['active'] = "catering"
 							<li>Customized Concepts created in conjunction with our specialist partners. No radius limit</li>
 							<li>Complete Transportation Arrangements</li>
 						</ul>
-						
+
 					</div>
 				</div>
 			</div>
@@ -158,7 +158,7 @@ $_SESSION['active'] = "catering"
 			</div>
 
 			<div class="row container">
-			<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="wazi-cuisine.php" role="button">Read More About Wazi Cuisine</a></div>
+				<div class="owl-slide-animated owl-slide-cta"><a class="btn_1 btn_scroll remove_event_listerner" href="wazi-cuisine.php" role="button">Read More About Wazi Cuisine</a></div>
 			</div>
 		</div>
 

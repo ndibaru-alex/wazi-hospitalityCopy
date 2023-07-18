@@ -501,7 +501,18 @@ header.sticky a.open_close,
 }
 
 #logo {
-    float: left
+    float: left;
+    
+    
+}
+
+header.header .logo_normal
+ {
+   margin-top: -17px;
+}
+
+header.header .logo_sticky {
+    margin-top: -17px;
 }
 
 @media (max-width: 991px) {
@@ -1460,10 +1471,11 @@ ul#top_menu li a.search-overlay-menu-btn:before {
 .slide-text h2,
 .slide-text h3 {
     font-size: 46px;
-    font-size: 2.875rem;
-    font-weight: 900;
+    font-size: 2.5rem;
+    font-weight: 600;
     text-transform: uppercase;
-    line-height: 1
+    line-height: 1;
+    max-width: 600px;
 }
 
 @media (max-width: 767px) {
@@ -3491,6 +3503,7 @@ footer {
     min-height: 150px;
     background-color: #f4f4f4;
     color: #000000 !important; 
+    padding: 50px;
     
 }
 .react_out_call_to_action h1{

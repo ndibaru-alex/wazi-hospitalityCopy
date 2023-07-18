@@ -99,15 +99,14 @@ $_SESSION['active'] = "about"
 							<ol>
 
 
-								<li>Corporate and private catering</li>
-								<li>Professional Cleaning solutions</li>
-								<li>Hospitality Staff training for waiters/tresses, cooks and housekeeping personnel</li>
-								<li>Facilities layout and designs for kitchen and restaurants.</li>
+								<li>Our service is personal sincere and bespoke for your convenience. We offer customized services that cater to the specific needs of customers. We personally tailor every opportunity to suit what you want making your time and resources unparalleled.</li>
+								<li>Dedicated team of hospitality professionals who all have the same vision- to be the best
 
-
-								<li>
-									We are driven by our purpose of creating unique distinct priceless experiences where and when the client needs them.
 								</li>
+								<li>We offer warm kenyan hospitality through various cuisines to suit your event needs.</li>
+								
+
+
 							</ol>
 							</p>
 						</div>
@@ -138,19 +137,19 @@ $_SESSION['active'] = "about"
 					</div>
 
 
-					
+
 					<div class="col-lg-6 ">
 						<div class="intro_txt" data-cue="slideInUp" data-delay="500">
 							<div class="main_title">
 								<span><em></em></span>
-								<p>Our Employees</p>
+								<p> To Our Employees</p>
 							</div>
-							
+
 							<p> Be an employer of choice offering employees a dynamic, challenging and fruitful work environment that fosters personal and professional growth. "Take care of associates and they will take care of the customers" is our mantra. </p>
 
 							<div class="main_title">
 								<span><em></em></span>
-								<p>Our Clients</p>
+								<p>To Our Clients</p>
 							</div>
 
 							<p> Be an employer of choice offering employees a dynamic, challenging and fruitful work environment that fosters personal and professional growth. "Take care of associates and they will take care of the customers" is our mantra. </p>
@@ -163,23 +162,36 @@ $_SESSION['active'] = "about"
 
 					<div class="col-lg-6">
 
-						<p> A culture of professionalism, consistency and promptness in delivery, responsiveness, attention to detail, engagement to meet and exceed your expectations. We put you first in our all </p>
-						<p>Offer timely solutions, innovative personalized service, transparency and loyalty, affordability and freedom of choice. We guarantee something for everyone and something for any occasion.</p>
 
 						<div class="main_title">
 							<span><em></em></span>
 
-							<p>Our Stakeholders</p>
+							<p>To Our Stakeholders</p>
 						</div>
 						<p>To deliver value addition. Be efficient and effective.</p>
+						<p> A culture of professionalism, consistency and promptness in delivery, responsiveness, attention to detail, engagement to meet and exceed your expectations. We put you first in our all </p>
 
 
 						<div class="main_title">
 							<span><em></em></span>
 
-							<p>Our Community</p>
+							<p>To Our Community</p>
 						</div>
 						<p>Work with them to improve their livelihoods through corporate social responsibility.</p>
+
+					</div>
+					<div class="col-lg-6">
+
+
+						<div class="main_title">
+							<span><em></em></span>
+
+							<p>To God almighty.</p>
+						</div>
+						<p>Effectively serving the purposes of God and being a blessing to humanity.</p>
+
+
+
 
 					</div>
 				</div>
@@ -198,15 +210,38 @@ $_SESSION['active'] = "about"
 					</div>
 
 
-					
+
 					<div class="col-lg-12 ">
 						<div class="intro_txt text-center" data-cue="slideInUp" data-delay="500">
-							
-							
-								<p>To delight our guests with the most exceptional experiences.</p>
-								<p>To empower our staff and establish a nurturing environment of possibility, respect and unity</p>
-								<p>To be the best service provider, and a respected hospitality brand.</p>
-							
+
+
+							<p>To delight our guests with the most exceptional experiences.</p>
+							<p>To empower our staff and establish a nurturing environment of possibility, respect and unity</p>
+							<p>To be the best service provider, and a respected hospitality brand.</p>
+
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="">
+			<div class="container margin_120_100">
+				<div class="row flex-lg-row">
+
+					<div class="main_title center">
+						<span><em></em></span>
+						<h2>Wazi brand image</h2>
+					</div>
+
+
+
+					<div class="col-lg-12 ">
+						<div class="intro_txt text-center" data-cue="slideInUp" data-delay="500">
+
+
+							<h4>Consistency, reliability and trust.</h4>
 
 						</div>
 					</div>
@@ -376,7 +411,7 @@ $_SESSION['active'] = "about"
 		</div> -->
 		<!--/pattern_2 -->
 
-	
+
 
 
 	</main>

@@ -49,16 +49,16 @@ $_SESSION['active'] = "home"
 			<div class="owl-carousel owl-theme">
 
 
-			<div class="owl-slide cover lazy" data-bg="url(img/slides/slider-c.jpg)">
+				<div class="owl-slide cover lazy" data-bg="url(img/slides/slider-c.jpg)">
 					<div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<div class="container">
 							<div class="row justify-content-center justify-content-md-start">
 								<div class="col-lg-6 static">
 									<div class="slide-text white">
 										<h2 class="owl-slide-animated owl-slide-title">
-											Welcome To Wazi Cuisine & Hospitality
+											Welcome To Wazi Cuisine <br> & Hospitality .
 										</h2>
-										<p class="owl-slide-animated owl-slide-subtitle"> Home of sterling experiences ...whenever </p>
+										<p class="owl-slide-animated owl-slide-subtitle"> Home of sterling experiences whenever and wherever needed. </p>
 										<div class="owl-slide-animated owl-slide-cta"><a class="btn_1" href="contacts.php" role="button">Let's Talk</a></div>
 									</div>
 								</div>
@@ -109,11 +109,11 @@ $_SESSION['active'] = "home"
 					</div>
 				</div>
 				<!--/owl-slide-->
-				
+
 			</div>
 			<div id="icon_drag_mobile"></div>
 		</div>
-		
+
 
 		<div class="pattern_2">
 			<div class="container margin_120_100 home_intro">
@@ -131,13 +131,13 @@ $_SESSION['active'] = "home"
 							<p>Wazi Cuisine & Hospitality.</p>
 						</div>
 						<p>
-						We are a leading integrated world class service provider, purpose-led and driven organization, with all our efforts centered on helping our clients live their dream through the provision of hospitality services and exceed their expectations.
+							We are a leading integrated world class service provider, purpose-led and driven organization, with all our efforts centered on helping our clients live their dream through the provision of hospitality services and exceed their expectations.
 						</p>
 						<p>
-						Our strategy is executed through business clusters that deliver tailored, comprehensive and client-centric solutions to individual and institutional clients.
+							Our strategy is executed through business clusters that deliver tailored, comprehensive and client-centric solutions to individual and institutional clients.
 						</p>
 						<p>
-						We develop tailored, appropriate solutions and enable our clients to make sound choices. 
+							We develop tailored, appropriate solutions and enable our clients to make sound choices.
 						</p>
 						<div class=""><a class="btn_1 btn_scroll " href="about.php" role="button">Know us better</a></div>
 					</div>
@@ -175,7 +175,7 @@ $_SESSION['active'] = "home"
 					</div>
 
 
-					<div class="col-sm-4 mb-4">
+					<div class="col-sm-6 mb-3">
 						<div class="card border-0 h-100">
 							<div class="card-body">
 								<h4>Wazi cuisine / catering</h4>
@@ -188,10 +188,10 @@ $_SESSION['active'] = "home"
 					</div>
 
 
-					<div class="col-sm-4 mb-4">
+					<div class="col-sm-6 mb-3">
 						<div class="card border-0 h-100">
 							<div class="card-body">
-								<h4>Housekeeping  and pest control services</h4>
+								<h4>Housekeeping and pest control services</h4>
 								<p>
 									We understand first impressions count. Whether you are hosting clients, interviewing, or it’s just the regular workforce, great sanitation and ambiance are critical.
 								</p>
@@ -201,7 +201,7 @@ $_SESSION['active'] = "home"
 					</div>
 
 
-					<div class="col-sm-4 mb-4">
+					<div class="col-sm-6 mb-3">
 						<div class="card border-0 h-100">
 							<div class="card-body">
 								<h4>Hostpitality Staff Training</h4>
@@ -213,10 +213,10 @@ $_SESSION['active'] = "home"
 						</div>
 					</div>
 
-					<div class="col-sm-4 mb-4">
+					<div class="col-sm-6 mb-3">
 						<div class="card border-0 h-100">
 							<div class="card-body">
-								<h4>Consultancy and Kitchen and  design solutions</h4>
+								<h4>Consultancy and Kitchen and design solutions</h4>
 								<p>
 									Facility layout & design: Optimize operational efficiency, maximize space utilization, and create a visually appealing environment through strategic planning and thoughtful design solutions.
 								</p>
@@ -239,7 +239,7 @@ $_SESSION['active'] = "home"
 					</div> -->
 
 
-					
+
 
 
 					<!-- <div class="col-sm-4 mb-4">
@@ -280,9 +280,11 @@ $_SESSION['active'] = "home"
 				<div class="row justify-content-center">
 					<div class="col-lg-5 col-md-6 text-center">
 						<div class="box_1" data-cue="slideInUp">
-							<h2>Brand Promise</h2>
+							<h2>To all our guests</h2>
 							<p>
-								Memories are made of these: quality, professionalism, personal touch.
+								We put you first and ensure our efforts are centred on helping you live your dream.
+
+
 							</p>
 							<a href="contacts.php" class="btn_1 mt-3">Contact us</a>
 						</div>
