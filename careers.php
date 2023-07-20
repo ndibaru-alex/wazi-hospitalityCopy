@@ -20,6 +20,12 @@ $_SESSION['active'] = "career"
     <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png">
 
+    <!-- bootsrtap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- bootsrtap -->
+    <!-- Font-Awesom cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Font-Awesom cdn -->
     <!-- GOOGLE WEB FONT -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -34,6 +40,20 @@ $_SESSION['active'] = "career"
 
 
 </head>
+
+<style>
+    .jbtn {
+        position: absolute;
+        margin: 40px 20px 40px 20px;
+    }
+
+    @media (max-width:400px) {
+        .jbtn {
+            position: relative;
+            margin: 5px 10px 10px 5px ;
+        }
+    }
+</style>
 
 <body>
 
@@ -77,7 +97,109 @@ $_SESSION['active'] = "career"
                         <p>
                             We are proud to welcome you to explore career with us. In joining, you join a winning brand where you do your best work, start your purpose , be part of an amazing team and become your very best.
                         </p>
-                        <a href="contacts.php"><button class="btn btn-primary">Get In Touch</button></a>
+
+
+                    </div>
+
+                </div>
+
+                <div class="main_title center">
+
+                    <h2> Vaccancies Available</h2>
+
+                </div>
+
+                <div class="row justify-content-center my-5">
+                    <div class="col-lg-3" data-cue="slideInUp" data-delay="500">
+                        <div class="main_title center">
+
+                            <h6>Room Attendant </h6>
+                            <span><em></em></span>
+
+
+
+                        </div>
+                        <div class="text-right d-flex">
+
+                            <p><i class="fa fa-map-marker mx-1" aria-hidden="true"></i>Nairobi</p>
+                            <p style="margin-left: 90px;"><i class="fas fa-calendar mx-1" aria-hidden="true"></i>Full Time</p>
+
+                        </div>
+
+                        <ol>
+                            <p>What will you be doing:</p>
+                            <li> Performing cleaning duties and ensuring care & presentation of all equipment</li>
+                            <li>Scheduling through cleaning of bedrooms, bathrooms and corridors including all fittings and surfaces to required standards</li>
+                            <li>To be flexible in your working hours in line with business requirements.</li>
+                            <li> Greeting all guest in a professional and polite manner.</li>
+                        </ol>
+
+                        <div class="jbtn">
+                            <button class="btn btn-primary  " data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Apply Now</button>
+                        </div>
+
+
+                    </div>
+                    <div class="col-lg-3" data-cue="slideInUp" data-delay="500">
+                        <div class="main_title center">
+
+                            <h6>Valet Attendant </h6>
+                            <span><em></em></span>
+
+
+
+                        </div>
+                        <div class="text-right d-flex">
+
+                            <p><i class="fa fa-map-marker mx-1" aria-hidden="true"></i>Nairobi</p>
+                            <p style="margin-left: 90px;"><i class="fas fa-calendar mx-1" aria-hidden="true"></i>Full Time</p>
+
+                        </div>
+
+                        <ol>
+                            <p>What will you be doing:</p>
+                            <li> Responsible for greeting the guest upon their arrival, assisting with the unloading of their items in a safe manner.
+                            </li>
+                            <li>Deliver Laundry and Clothing to guestrooms.Position requires excellent guest service skills .</li>
+                            <li>Coordinate all repairs to appropriate persons and pick-up for delivery when completed.</li>
+                            <li>People skills required</li>
+
+                        </ol>
+
+
+                        <div class="jbtn">
+                            <button class="btn btn-primary  " data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Apply Now</button>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3" data-cue="slideInUp" data-delay="500">
+                        <div class="main_title center">
+
+                            <h6>House Manager </h6>
+                            <span><em></em></span>
+
+
+
+                        </div>
+                        <div class="text-right d-flex">
+
+                            <p><i class="fa fa-map-marker mx-1" aria-hidden="true"></i>Nairobi</p>
+                            <p style="margin-left: 90px;"><i class="fas fa-calendar mx-1" aria-hidden="true"></i>Full Time</p>
+
+                        </div>
+
+                        <ol>
+                            <p>What will you be doing:</p>
+                            <li> Performing cleaning duties and ensuring care & presentation of all equipment</li>
+                            <li>Scheduling through cleaning of bedrooms, bathrooms and corridors including all fittings and surfaces to required standards</li>
+                            <li>To be flexible in your working hours in line with business requirements.</li>
+                            <li> Greeting all guest in a professional and polite manner.</li>
+                        </ol>
+
+
+                        <div class="jbtn">
+                            <button class="btn btn-primary  " data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Apply Now</button>
+                        </div>
                     </div>
                 </div>
                 <!--/row -->
@@ -293,6 +415,52 @@ $_SESSION['active'] = "career"
 
 
 
+
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class=" modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Application Form</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3">
+                                <label for="Position" class="col-form-label">Position:</label>
+                                <input type="text" class="form-control" id="Position" placeholder="Room Attendant">
+                            </div>
+                            <div class="mb-3">
+                                <label for="name" class="col-form-label">Name:</label>
+                                <input type="text" class="form-control" id="name" placeholder="Full Name">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Email" class="col-form-label">Email:</label>
+                                <input type="email" class="form-control" id="Email" placeholder="abcy@gmail.com">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Phone" class="col-form-label">Phone:</label>
+                                <input type="text" class="form-control" id="Phone" placeholder="0993222344">
+                            </div>
+                            <div class="mb-3">
+                                <label for="formFile" class="form-label">Resume</label>
+                                <input class="form-control" type="file" id="formFile">
+                            </div>
+                            <div class="mb-3">
+                                <label for="message-text" class="col-form-label">Brief message about you:</label>
+                                <textarea class="form-control" id="message-text"></textarea>
+                            </div>
+
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </main>
     <!-- /main -->
 
@@ -303,6 +471,9 @@ $_SESSION['active'] = "career"
 
     <div id="toTop"></div><!-- Back to top button -->
 
+    <!-- bootsrtap scrip -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <!-- bootsrtap -->
     <!-- COMMON SCRIPTS -->
     <script src="js/common_scripts.min.js"></script>
     <script src="js/common_func.js"></script>
